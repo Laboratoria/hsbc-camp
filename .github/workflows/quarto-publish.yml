@@ -18,9 +18,6 @@ jobs:
       with:
         version: 'latest'
 
-    - name: Setup Pandoc
-      uses: JamesIves/setup-pandoc@2.0.1
-
     - name: Render Quarto site
       run: quarto render
 
