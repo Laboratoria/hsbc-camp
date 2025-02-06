@@ -11,4 +11,3 @@ Este repositorio contiene el plan de estudios para un curso de Java de 2 meses, 
 ## Cómo usar este repositorio
 - Cada archivo `README` contiene una lista de desafíos con enlaces a las plataformas.
 - Los objetivos de aprendizaje (OAs) están asociados a cada desafío.
-- Usa el repositorio privado para compartir soluciones y recibir feedback.
