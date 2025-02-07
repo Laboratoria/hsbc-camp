@@ -1,4 +1,4 @@
-# Advanced Preparation Challenges (Weeks 7-8)
+# Advanced Preparation Challenges
 
 ## Objetivos de aprendizaje (OAs)
 1. Consolidar habilidades en manipulación de fechas y tiempos.

@@ -1,4 +1,4 @@
-# Advanced Challenges (Weeks 5-6)
+# Advanced Challenges
 
 ## Objetivos de aprendizaje (OAs)
 1. Profundizar en estructuras de datos avanzadas (árboles, grafos, etc.).

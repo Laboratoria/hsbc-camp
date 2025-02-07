@@ -1,4 +1,4 @@
-# Java Basics: Weeks 1-2
+# Java Basics: Beginner
 
 ## Objetivos de Aprendizaje (OAs)
 1. Sintaxis básica de Java.

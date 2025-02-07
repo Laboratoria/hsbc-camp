@@ -1,4 +1,4 @@
-# Intermediate Challenges (Weeks 3-4)
+# Intermediate Challenges
 
 ## Objetivos de aprendizaje (OAs)
 1. Introducir conceptos de Programación Orientada a Objetos (OOP).
