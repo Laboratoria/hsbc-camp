@@ -6,16 +6,16 @@ website:
   title: "Java Coding Challenges"
   navbar:
     left:
-      - text: "Home"
+      - text: "Inicio"
         href: index.qmd
-      - text: "Weeks 1-2"
-        href: Week1-2_Beginner.md
-      - text: "Weeks 3-4"
-        href: Week3-4_Intermediate.md
-      - text: "Weeks 5-6"
-        href: Week5-6_Advanced.md
-      - text: "Weeks 7-8"
-        href: Week7-8_AdvancedPrep.md
+      - text: "Módulo 1"
+        href: Modulo_1_Beginner.md
+      - text: "Módulo 2"
+        href: Modulo_2_Intermediate.md
+      - text: "Módulo 3"
+        href: Modulo_3_Advanced.md
+      - text: "Módulo 4"
+        href: Modulo_4_AdvancedPrep.md
 
 format:
   html:
