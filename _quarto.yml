@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Java Coding Challenges"
+  title: "Java Camp"
   navbar:
     left:
       - text: "Inicio"
@@ -16,7 +16,15 @@ website:
         href: Modulo_3_Advanced.md
       - text: "Módulo 4"
         href: Modulo_4_AdvancedPrep.md
+      - text: "Referencias"
+        href: References.md
 
 format:
   html:
-    theme: default
+    theme: journal
+    css: styles.css
+    toc: true
+    lang: es
+
+margin-header: |
+  ![](/images/logo_negro.png)
