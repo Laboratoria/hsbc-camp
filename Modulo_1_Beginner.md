@@ -12,7 +12,6 @@
 |--------|-------------|-------------------------------------------------------------------------|--------------------------------------|-----|
 | JC0100 | Codewars    | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)      | Operaciones básicas                  | 1,2 |
 | JC0101 | Codewars    | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)   | Condicionales                        | 1,3 |
-| JC0102 | Edabit      | [Sum of Two Numbers](https://edabit.com/challenge/3LpBLgNRrm89pSLmW)    | Funciones básicas                    | 1,2 |
 | JC0103 | Edabit      | [Minutes to Seconds](https://edabit.com/challenge/8q54MKnRrm89pSLmW)    | Conversión de datos                  | 1,2 |
 | JC0104 | HackerRank  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java) | Salida por consola                   | 1   |
 | JC0105 | Codewars    | [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)| Loops y matemáticas                  | 3   |
@@ -24,7 +23,7 @@
 | JC0111 | Codewars    | [Count Positives/Sum Negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | Arrays                     | 4   |
 | JC0112 | HackerRank  | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1) | Entrada/Salida           | 1   |
 | JC0113 | HackerRank  | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting) | Formato de strings      | 4   |
-| JC0114 | Edabit      | [Smallest and Largest Numbers](https://edabit.com/challenge/e5P8jtu8sQ6BErFKr) | Arrays                   | 4   |
+| JC0114 | Edabit      | [Smallest and Biggest Numbers](https://edabit.com/challenge/Q3n42rEWanZSTmsJm) | Arrays                   | 4   |
 | JC0115 | Codewars    | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb4876000d7e) | Strings               | 4   |
 | JC0116 | Codewars    | [String Repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | Strings y loops                      | 4   |
 | JC0117 | HackerRank  | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction) | Strings      | 4   |
