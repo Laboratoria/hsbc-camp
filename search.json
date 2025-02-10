@@ -2,35 +2,35 @@
   {
     "objectID": "References.html",
     "href": "References.html",
-    "title": "Java Camp",
+    "title": "HSBC Java Camp by Laboratoria",
     "section": "",
     "text": "Java Tutorial for Beginners - W3Schools\nJava Basics - Oracle Documentation\nIntroduction to Java Programming - GeeksforGeeks\n\n\n\n\nSintaxis de Java\n\n\n\n\n\n\nPrimitive Data Types - Oracle Documentation\nJava Data Types - W3Schools\nPrimitive Data Types in Java - GeeksforGeeks\n\n\n\n\nTipos de datos primitivos\nOperadores\n\n\n\n\n\n\nControl Flow Statements - Oracle Documentation\nJava If … Else - W3Schools\nLoops in Java - GeeksforGeeks\n\n\n\n\nCondicionales\nLoops\n\n\n\n\n\n\nArrays - Oracle Documentation\nJava Arrays - W3Schools\nStrings - Oracle Documentation\nJava Strings - W3Schools\nArrays and Strings in Java - GeeksforGeeks\n\n\n\n\nArrays (Arreglos) Unidimensionales y Bidimensionales\n\n\n\n\n\n\nVideo playlist\nMateriale escrito"
   },
   {
     "objectID": "References.html#materiales-de-referencia-en-línea",
     "href": "References.html#materiales-de-referencia-en-línea",
-    "title": "Java Camp",
+    "title": "HSBC Java Camp by Laboratoria",
     "section": "",
     "text": "Java Tutorial for Beginners - W3Schools\nJava Basics - Oracle Documentation\nIntroduction to Java Programming - GeeksforGeeks\n\n\n\n\nSintaxis de Java\n\n\n\n\n\n\nPrimitive Data Types - Oracle Documentation\nJava Data Types - W3Schools\nPrimitive Data Types in Java - GeeksforGeeks\n\n\n\n\nTipos de datos primitivos\nOperadores\n\n\n\n\n\n\nControl Flow Statements - Oracle Documentation\nJava If … Else - W3Schools\nLoops in Java - GeeksforGeeks\n\n\n\n\nCondicionales\nLoops\n\n\n\n\n\n\nArrays - Oracle Documentation\nJava Arrays - W3Schools\nStrings - Oracle Documentation\nJava Strings - W3Schools\nArrays and Strings in Java - GeeksforGeeks\n\n\n\n\nArrays (Arreglos) Unidimensionales y Bidimensionales\n\n\n\n\n\n\nVideo playlist\nMateriale escrito"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Java Coding Challenges Path",
+    "title": "HSBC Java Coding Challenges Path",
     "section": "",
     "text": "Este repositorio contiene el plan de estudios para un curso de Java de 2 meses, dividido en 4 bloques de semanas. Cada bloque se enfoca en habilidades específicas, desde lo básico hasta problemas avanzados, culminando en un proyecto final.\n\n\n\nMódulo 1: Beginner challenges (syntax, data types, loops, conditionals).\nMódulo 2: Intermediate challenges (OOP, collections, intermediate algorithms).\nMódulo 3: Advanced challenges (data structures, complex problem-solving).\nMódulo 4: Capstone project and review.\n\n\n\n\n\nCada archivo README contiene una lista de desafíos con enlaces a las plataformas.\nLos objetivos de aprendizaje (OAs) están asociados a cada desafío."
   },
   {
     "objectID": "index.html#estructura-del-curso",
     "href": "index.html#estructura-del-curso",
-    "title": "Java Coding Challenges Path",
+    "title": "HSBC Java Coding Challenges Path",
     "section": "",
     "text": "Módulo 1: Beginner challenges (syntax, data types, loops, conditionals).\nMódulo 2: Intermediate challenges (OOP, collections, intermediate algorithms).\nMódulo 3: Advanced challenges (data structures, complex problem-solving).\nMódulo 4: Capstone project and review."
   },
   {
     "objectID": "index.html#cómo-usar-este-repositorio",
     "href": "index.html#cómo-usar-este-repositorio",
-    "title": "Java Coding Challenges Path",
+    "title": "HSBC Java Coding Challenges Path",
     "section": "",
     "text": "Cada archivo README contiene una lista de desafíos con enlaces a las plataformas.\nLos objetivos de aprendizaje (OAs) están asociados a cada desafío."
   },
