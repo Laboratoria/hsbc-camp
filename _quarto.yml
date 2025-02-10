@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Java Camp"
+  title: "HSBC Java Camp by Laboratoria"
   navbar:
     left:
       - text: "Inicio"

@@ -1,4 +1,4 @@
-# Java Coding Challenges Path
+# HSBC Java Coding Challenges Path
 
 Este repositorio contiene el plan de estudios para un curso de Java de 2 meses, dividido en 4 bloques de semanas. Cada bloque se enfoca en habilidades específicas, desde lo básico hasta problemas avanzados, culminando en un proyecto final.
 
