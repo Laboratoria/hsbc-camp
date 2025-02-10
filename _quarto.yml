@@ -9,15 +9,7 @@ website:
       - text: "Inicio"
         href: index.qmd
       - text: "Módulo 1"
-        href: Modulo_1_Beginner.md
-      - text: "Módulo 2"
-        href: Modulo_2_Intermediate.md
-      - text: "Módulo 3"
-        href: Modulo_3_Advanced.md
-      - text: "Módulo 4"
-        href: Modulo_4_AdvancedPrep.md
-      - text: "Referencias"
-        href: References.md
+        href: Modulo_1_Java_Basics.md
 
 format:
   html:
