@@ -91,6 +91,27 @@
     "text": "Practica el uso de HashMap y ArrayList para problemas de colecciones.\nUsa LocalDate y DateTimeFormatter para manejar fechas."
   },
   {
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Guía de Contribución",
+    "section": "",
+    "text": "Para contribuir a este proyecto, sigue estos pasos:\n\n\n\nInstala Quarto Descarga e instala Quarto desde: https://quarto.org/docs/get-started/\nExtensión VSCode (opcional) Instala la extensión oficial de Quarto en Visual Studio Code.\n\n\n\n\n\nVista previa: Ejecuta quarto preview para ver los cambios localmente\nPublicar: Usa quarto publish gh-pages para publicar en GitHub Pages\n\nPara más información consulta la documentación oficial de Quarto."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#requisitos",
+    "href": "CONTRIBUTING.html#requisitos",
+    "title": "Guía de Contribución",
+    "section": "",
+    "text": "Instala Quarto Descarga e instala Quarto desde: https://quarto.org/docs/get-started/\nExtensión VSCode (opcional) Instala la extensión oficial de Quarto en Visual Studio Code."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#uso-básico",
+    "href": "CONTRIBUTING.html#uso-básico",
+    "title": "Guía de Contribución",
+    "section": "",
+    "text": "Vista previa: Ejecuta quarto preview para ver los cambios localmente\nPublicar: Usa quarto publish gh-pages para publicar en GitHub Pages\n\nPara más información consulta la documentación oficial de Quarto."
+  },
+  {
     "objectID": "Modulo_1_Beginner.html",
     "href": "Modulo_1_Beginner.html",
     "title": "Java Basics: Beginner",
