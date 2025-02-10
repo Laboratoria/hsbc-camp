@@ -1,38 +1,52 @@
 [
   {
-    "objectID": "References.html",
-    "href": "References.html",
+    "objectID": "Modulo_1_Java_Basics.html",
+    "href": "Modulo_1_Java_Basics.html",
+    "title": "Java Basics",
+    "section": "",
+    "text": "En este primer módulo del bootcamp trabajaremos con la sintaxis básica de Java. Practicaremos cómo escribir funciones, usar punto y coma al final de las líneas de código, y cómo declarar, inicializar y utilizar variables y constantes. También trabajaremos con condicionales, loops, tipos de datos primitivos, arreglos y strings.\nSi tienes experiencia en lenguajes como JavaScript o Python, reconocerás conceptos como variables y bucles, y podrás enfocarte en las particularidades de Java (tipado estático, estructura de clases, manejo de arrays). Si es tu primer acercamiento a la programación, estos conceptos serán tu base sólida para avanzar.\nEl enfoque incluye:\n\nSintaxis específica de Java (vs otros lenguajes)\nBuenas prácticas desde el día 1\nEjercicios para adaptar lógica previa (o construirla desde cero)\n\n¡Todos partiremos de ejercicios básicos que nos permitirán nivelar conocimientos mientras exploramos Java!\n\n\n\n\nSintaxis básica de Java.\nManipulación de tipos de datos primitivos.\nUso de condicionales.\nUso de loops.\nTrabajo con arrays\nTrabajo con strings."
+  },
+  {
+    "objectID": "Modulo_1_Java_Basics.html#módulo-1-fundamentos-de-java",
+    "href": "Modulo_1_Java_Basics.html#módulo-1-fundamentos-de-java",
+    "title": "Java Basics",
+    "section": "",
+    "text": "En este primer módulo del bootcamp trabajaremos con la sintaxis básica de Java. Practicaremos cómo escribir funciones, usar punto y coma al final de las líneas de código, y cómo declarar, inicializar y utilizar variables y constantes. También trabajaremos con condicionales, loops, tipos de datos primitivos, arreglos y strings.\nSi tienes experiencia en lenguajes como JavaScript o Python, reconocerás conceptos como variables y bucles, y podrás enfocarte en las particularidades de Java (tipado estático, estructura de clases, manejo de arrays). Si es tu primer acercamiento a la programación, estos conceptos serán tu base sólida para avanzar.\nEl enfoque incluye:\n\nSintaxis específica de Java (vs otros lenguajes)\nBuenas prácticas desde el día 1\nEjercicios para adaptar lógica previa (o construirla desde cero)\n\n¡Todos partiremos de ejercicios básicos que nos permitirán nivelar conocimientos mientras exploramos Java!"
+  },
+  {
+    "objectID": "Modulo_1_Java_Basics.html#objetivos-de-aprendizaje-oas",
+    "href": "Modulo_1_Java_Basics.html#objetivos-de-aprendizaje-oas",
+    "title": "Java Basics",
+    "section": "",
+    "text": "Sintaxis básica de Java.\nManipulación de tipos de datos primitivos.\nUso de condicionales.\nUso de loops.\nTrabajo con arrays\nTrabajo con strings."
+  },
+  {
+    "objectID": "Modulo_1_Java_Basics.html#consejos",
+    "href": "Modulo_1_Java_Basics.html#consejos",
+    "title": "Java Basics",
+    "section": "Consejos",
+    "text": "Consejos\n\nUsa System.out.println para depurar tu código.\nPrueba casos extremos: arrays vacíos, valores negativos, etc."
+  },
+  {
+    "objectID": "Modulo_1_Java_Basics.html#materiales-de-referencia",
+    "href": "Modulo_1_Java_Basics.html#materiales-de-referencia",
+    "title": "Java Basics",
+    "section": "Materiales de Referencia",
+    "text": "Materiales de Referencia\n\n\n\nObjetivo de Aprendizaje\nMateriales Escritos\nVideos\n\n\n\n\n1. Sintaxis básica de Java\nJava Tutorial for Beginners - W3Schools  Java Basics - Oracle Documentation  Introduction to Java Programming - GeeksforGeeks\nSintaxis de Java\n\n\n2. Manipulación de tipos de datos primitivos\nPrimitive Data Types - Oracle Documentation  Java Data Types - W3Schools  Primitive Data Types in Java - GeeksforGeeks\nTipos de datos primitivos  Operadores\n\n\n3. Uso de condicionales\nControl Flow Statements (If-Else) - Oracle  Java If … Else - W3Schools  Conditional Statements - GeeksforGeeks\nCondicionales\n\n\n4. Uso de loops\nLoops - Oracle Documentation  Java Loops - W3Schools  Loops in Java - GeeksforGeeks\nLoops\n\n\n5. Trabajo con arrays\nArrays - Oracle Documentation  Java Arrays - W3Schools  Arrays in Java - GeeksforGeeks\nArrays Unidimensionales y Bidimensionales\n\n\n6. Trabajo con strings\nStrings - Oracle Documentation  Java Strings - W3Schools  String Class in Java - GeeksforGeeks\n\n\n\nRecurso Adicional: Java para Programadoras\nMaterial escrito\nVideo playlist"
+  },
+  {
+    "objectID": "TODO.html",
+    "href": "TODO.html",
     "title": "HSBC Java Camp by Laboratoria",
     "section": "",
-    "text": "Java Tutorial for Beginners - W3Schools\nJava Basics - Oracle Documentation\nIntroduction to Java Programming - GeeksforGeeks\n\n\n\n\nSintaxis de Java\n\n\n\n\n\n\nPrimitive Data Types - Oracle Documentation\nJava Data Types - W3Schools\nPrimitive Data Types in Java - GeeksforGeeks\n\n\n\n\nTipos de datos primitivos\nOperadores\n\n\n\n\n\n\nControl Flow Statements - Oracle Documentation\nJava If … Else - W3Schools\nLoops in Java - GeeksforGeeks\n\n\n\n\nCondicionales\nLoops\n\n\n\n\n\n\nArrays - Oracle Documentation\nJava Arrays - W3Schools\nStrings - Oracle Documentation\nJava Strings - W3Schools\nArrays and Strings in Java - GeeksforGeeks\n\n\n\n\nArrays (Arreglos) Unidimensionales y Bidimensionales\n\n\n\n\n\n\nVideo playlist\nMateriale escrito"
+    "text": "Dividir OAs en 6 (3 y 4 dividir en 2 partes cada uno)\nMover Referencias a Modulo 1\nOcultar otros módulos 2-4 en el menú e índice.\nCambiar códigos de ejercicio\nIncluir una intro coloquial al curso\nCambiar el titulo de M1"
   },
   {
-    "objectID": "References.html#materiales-de-referencia-en-línea",
-    "href": "References.html#materiales-de-referencia-en-línea",
+    "objectID": "TODO.html#tareas",
+    "href": "TODO.html#tareas",
     "title": "HSBC Java Camp by Laboratoria",
     "section": "",
-    "text": "Java Tutorial for Beginners - W3Schools\nJava Basics - Oracle Documentation\nIntroduction to Java Programming - GeeksforGeeks\n\n\n\n\nSintaxis de Java\n\n\n\n\n\n\nPrimitive Data Types - Oracle Documentation\nJava Data Types - W3Schools\nPrimitive Data Types in Java - GeeksforGeeks\n\n\n\n\nTipos de datos primitivos\nOperadores\n\n\n\n\n\n\nControl Flow Statements - Oracle Documentation\nJava If … Else - W3Schools\nLoops in Java - GeeksforGeeks\n\n\n\n\nCondicionales\nLoops\n\n\n\n\n\n\nArrays - Oracle Documentation\nJava Arrays - W3Schools\nStrings - Oracle Documentation\nJava Strings - W3Schools\nArrays and Strings in Java - GeeksforGeeks\n\n\n\n\nArrays (Arreglos) Unidimensionales y Bidimensionales\n\n\n\n\n\n\nVideo playlist\nMateriale escrito"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "HSBC Java Coding Challenges Path",
-    "section": "",
-    "text": "Este repositorio contiene el plan de estudios para un curso de Java de 2 meses, dividido en 4 bloques de semanas. Cada bloque se enfoca en habilidades específicas, desde lo básico hasta problemas avanzados, culminando en un proyecto final.\n\n\n\nMódulo 1: Beginner challenges (syntax, data types, loops, conditionals).\nMódulo 2: Intermediate challenges (OOP, collections, intermediate algorithms).\nMódulo 3: Advanced challenges (data structures, complex problem-solving).\nMódulo 4: Capstone project and review.\n\n\n\n\n\nCada archivo README contiene una lista de desafíos con enlaces a las plataformas.\nLos objetivos de aprendizaje (OAs) están asociados a cada desafío."
-  },
-  {
-    "objectID": "index.html#estructura-del-curso",
-    "href": "index.html#estructura-del-curso",
-    "title": "HSBC Java Coding Challenges Path",
-    "section": "",
-    "text": "Módulo 1: Beginner challenges (syntax, data types, loops, conditionals).\nMódulo 2: Intermediate challenges (OOP, collections, intermediate algorithms).\nMódulo 3: Advanced challenges (data structures, complex problem-solving).\nMódulo 4: Capstone project and review."
-  },
-  {
-    "objectID": "index.html#cómo-usar-este-repositorio",
-    "href": "index.html#cómo-usar-este-repositorio",
-    "title": "HSBC Java Coding Challenges Path",
-    "section": "",
-    "text": "Cada archivo README contiene una lista de desafíos con enlaces a las plataformas.\nLos objetivos de aprendizaje (OAs) están asociados a cada desafío."
+    "text": "Dividir OAs en 6 (3 y 4 dividir en 2 partes cada uno)\nMover Referencias a Modulo 1\nOcultar otros módulos 2-4 en el menú e índice.\nCambiar códigos de ejercicio\nIncluir una intro coloquial al curso\nCambiar el titulo de M1"
   },
   {
     "objectID": "Modulo_4_AdvancedPrep.html",
@@ -112,32 +126,25 @@
     "text": "Vista previa: Ejecuta quarto preview para ver los cambios localmente\nPublicar: Usa quarto publish gh-pages para publicar en GitHub Pages\n\nPara más información consulta la documentación oficial de Quarto."
   },
   {
-    "objectID": "Modulo_1_Beginner.html",
-    "href": "Modulo_1_Beginner.html",
-    "title": "Java Basics: Beginner",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HSBC Java Coding Challenges Path",
     "section": "",
-    "text": "Sintaxis básica de Java.\nManipulación de tipos de datos primitivos.\nUso de condicionales y loops.\nTrabajo con arrays y strings.\n\n\n\n\n\n\n\nID\nPlataforma\nDesafío\nHabilidades\nOA\n\n\n\n\nJC0100\nCodewars\nMultiply\nOperaciones básicas\n1,2\n\n\nJC0101\nCodewars\nEven or Odd\nCondicionales\n1,3\n\n\nJC0103\nEdabit\nMinutes to Seconds\nConversión de datos\n1,2\n\n\nJC0104\nHackerRank\nWelcome to Java!\nSalida por consola\n1\n\n\nJC0105\nCodewars\nKeep Hydrated!\nLoops y matemáticas\n3\n\n\nJC0106\nCodewars\nBoolean to String\nTipos de datos\n1,2\n\n\nJC0107\nHackerRank\nJava If-Else\nCondicionales\n3\n\n\nJC0108\nHackerRank\nJava Loops I\nLoops\n3\n\n\nJC0109\nEdabit\nDivisible by Five\nCondicionales\n3\n\n\nJC0110\nCodewars\nSum Arrays\nArrays y loops\n4\n\n\nJC0111\nCodewars\nCount Positives/Sum Negatives\nArrays\n4\n\n\nJC0112\nHackerRank\nJava Stdin and Stdout I\nEntrada/Salida\n1\n\n\nJC0113\nHackerRank\nJava Output Formatting\nFormato de strings\n4\n\n\nJC0114\nEdabit\nSmallest and Biggest Numbers\nArrays\n4\n\n\nJC0115\nCodewars\nRemove First and Last Character\nStrings\n4\n\n\nJC0116\nCodewars\nString Repeat\nStrings y loops\n4\n\n\nJC0117\nHackerRank\nJava Strings Introduction\nStrings\n4\n\n\nJC0118\nEdabit\nReverse a String\nStrings\n4\n\n\nJC0119\nEdabit\nCheck String Suffix\nStrings\n4\n\n\nJC0120\nCodewars\nFind the Odd Int\nArrays y lógica\n3,4\n\n\nJC0121\nCodewars\nCredit Card Mask\nStrings\n4\n\n\nJC0122\nHackerRank\nJava Subarray\nArrays y loops\n3,4\n\n\nJC0123\nHackerRank\nJava String Tokens\nStrings\n4\n\n\nJC0124\nEdabit\nCount Duplicates\nStrings y colecciones\n4\n\n\nJC0125\nCodewars\nIsograms\nStrings\n4\n\n\nJC0126\nCodewars\nVowel Count\nStrings y loops\n4\n\n\nJC0127\nHackerRank\nJava Datatypes\nTipos de datos\n2\n\n\nJC0128\nEdabit\nCheck Palindrome Number\nCondicionales y números\n3,4\n\n\nJC0129\nEdabit\nLargest Number in Array\nArrays\n4\n\n\n\n\n\n\n\nUsa System.out.println para depurar tu código.\nPrueba casos extremos: arrays vacíos, valores negativos, etc."
+    "text": "Este repositorio contiene el plan de estudios para un curso de Java de 2 meses, dividido en 4 bloques de semanas. Cada bloque se enfoca en habilidades específicas, desde lo básico hasta problemas avanzados, culminando en un proyecto final.\n\n\n\nMódulo 1 (syntax, data types, loops, conditionals).\nMódulo 2 (OOP, collections, algorithms).\nMódulo 3 (data structures, complex problem-solving).\nMódulo 4 Capstone project and review.\n\n\n\n\n\nCada sección contiene una lista de desafíos con enlaces a las plataformas.\nLos objetivos de aprendizaje (OAs) están asociados a cada desafío."
   },
   {
-    "objectID": "Modulo_1_Beginner.html#objetivos-de-aprendizaje-oas",
-    "href": "Modulo_1_Beginner.html#objetivos-de-aprendizaje-oas",
-    "title": "Java Basics: Beginner",
+    "objectID": "index.html#estructura-del-curso",
+    "href": "index.html#estructura-del-curso",
+    "title": "HSBC Java Coding Challenges Path",
     "section": "",
-    "text": "Sintaxis básica de Java.\nManipulación de tipos de datos primitivos.\nUso de condicionales y loops.\nTrabajo con arrays y strings."
+    "text": "Módulo 1 (syntax, data types, loops, conditionals).\nMódulo 2 (OOP, collections, algorithms).\nMódulo 3 (data structures, complex problem-solving).\nMódulo 4 Capstone project and review."
   },
   {
-    "objectID": "Modulo_1_Beginner.html#ejercicios",
-    "href": "Modulo_1_Beginner.html#ejercicios",
-    "title": "Java Basics: Beginner",
+    "objectID": "index.html#cómo-usar-este-repositorio",
+    "href": "index.html#cómo-usar-este-repositorio",
+    "title": "HSBC Java Coding Challenges Path",
     "section": "",
-    "text": "ID\nPlataforma\nDesafío\nHabilidades\nOA\n\n\n\n\nJC0100\nCodewars\nMultiply\nOperaciones básicas\n1,2\n\n\nJC0101\nCodewars\nEven or Odd\nCondicionales\n1,3\n\n\nJC0103\nEdabit\nMinutes to Seconds\nConversión de datos\n1,2\n\n\nJC0104\nHackerRank\nWelcome to Java!\nSalida por consola\n1\n\n\nJC0105\nCodewars\nKeep Hydrated!\nLoops y matemáticas\n3\n\n\nJC0106\nCodewars\nBoolean to String\nTipos de datos\n1,2\n\n\nJC0107\nHackerRank\nJava If-Else\nCondicionales\n3\n\n\nJC0108\nHackerRank\nJava Loops I\nLoops\n3\n\n\nJC0109\nEdabit\nDivisible by Five\nCondicionales\n3\n\n\nJC0110\nCodewars\nSum Arrays\nArrays y loops\n4\n\n\nJC0111\nCodewars\nCount Positives/Sum Negatives\nArrays\n4\n\n\nJC0112\nHackerRank\nJava Stdin and Stdout I\nEntrada/Salida\n1\n\n\nJC0113\nHackerRank\nJava Output Formatting\nFormato de strings\n4\n\n\nJC0114\nEdabit\nSmallest and Biggest Numbers\nArrays\n4\n\n\nJC0115\nCodewars\nRemove First and Last Character\nStrings\n4\n\n\nJC0116\nCodewars\nString Repeat\nStrings y loops\n4\n\n\nJC0117\nHackerRank\nJava Strings Introduction\nStrings\n4\n\n\nJC0118\nEdabit\nReverse a String\nStrings\n4\n\n\nJC0119\nEdabit\nCheck String Suffix\nStrings\n4\n\n\nJC0120\nCodewars\nFind the Odd Int\nArrays y lógica\n3,4\n\n\nJC0121\nCodewars\nCredit Card Mask\nStrings\n4\n\n\nJC0122\nHackerRank\nJava Subarray\nArrays y loops\n3,4\n\n\nJC0123\nHackerRank\nJava String Tokens\nStrings\n4\n\n\nJC0124\nEdabit\nCount Duplicates\nStrings y colecciones\n4\n\n\nJC0125\nCodewars\nIsograms\nStrings\n4\n\n\nJC0126\nCodewars\nVowel Count\nStrings y loops\n4\n\n\nJC0127\nHackerRank\nJava Datatypes\nTipos de datos\n2\n\n\nJC0128\nEdabit\nCheck Palindrome Number\nCondicionales y números\n3,4\n\n\nJC0129\nEdabit\nLargest Number in Array\nArrays\n4"
-  },
-  {
-    "objectID": "Modulo_1_Beginner.html#consejos",
-    "href": "Modulo_1_Beginner.html#consejos",
-    "title": "Java Basics: Beginner",
-    "section": "",
-    "text": "Usa System.out.println para depurar tu código.\nPrueba casos extremos: arrays vacíos, valores negativos, etc."
+    "text": "Cada sección contiene una lista de desafíos con enlaces a las plataformas.\nLos objetivos de aprendizaje (OAs) están asociados a cada desafío."
   },
   {
     "objectID": "Modulo_3_Advanced.html",
