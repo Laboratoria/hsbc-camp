@@ -1,5 +1,18 @@
 # Java Basics
 
+## Módulo 1: Fundamentos de Java
+En este primer módulo del bootcamp trabajaremos con la sintaxis básica de Java. Practicaremos cómo escribir funciones, usar punto y coma al final de las líneas de código, y cómo declarar, inicializar y utilizar variables y constantes. También trabajaremos con condicionales, loops, tipos de datos primitivos, arreglos y strings.
+
+Si tienes experiencia en lenguajes como JavaScript o Python, reconocerás conceptos como variables y bucles, y podrás enfocarte en las particularidades de Java (tipado estático, estructura de clases, manejo de arrays). Si es tu primer acercamiento a la programación, estos conceptos serán tu base sólida para avanzar.
+
+El enfoque incluye:
+
+* [X] Sintaxis específica de Java (vs otros lenguajes)
+* [X] Buenas prácticas desde el día 1
+* [X] Ejercicios para adaptar lógica previa (o construirla desde cero)
+
+¡Todos partiremos de ejercicios básicos que nos permitirán nivelar conocimientos mientras exploramos Java!
+
 ## Objetivos de Aprendizaje (OAs)
 1. Sintaxis básica de Java.
 2. Manipulación de tipos de datos primitivos.
@@ -8,7 +21,7 @@
 5. Trabajo con arrays
 6. Trabajo con strings.
 
-## Ejercicios
+# Ejercicios
 
 | ID     | Plataforma  | Desafío                                                                 | Habilidades                          | OA  |
 |--------|-------------|-------------------------------------------------------------------------|--------------------------------------|-----|
@@ -45,3 +58,15 @@
 ## Consejos
 - Usa `System.out.println` para depurar tu código.
 - Prueba casos extremos: arrays vacíos, valores negativos, etc.
+
+## Materiales de Referencia
+
+| Objetivo de Aprendizaje | Materiales Escritos                                                                                                                                                                                                                             | Videos                                                                                                                     |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| 1. Sintaxis básica de Java      | [Java Tutorial for Beginners - W3Schools](https://www.w3schools.com/java/) <br> [Java Basics - Oracle Documentation](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html) <br> [Introduction to Java Programming - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-java/) | [Sintaxis de Java](https://www.youtube.com/watch?v=qxXcI56NfnE&t=1571s)                                                                                   |
+| 2. Manipulación de tipos de datos primitivos | [Primitive Data Types - Oracle Documentation](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) <br> [Java Data Types - W3Schools](https://www.w3schools.com/java/java_data_types.asp) <br> [Primitive Data Types in Java - GeeksforGeeks](https://www.geeksforgeeks.org/data-types-in-java/) | [Tipos de datos primitivos](https://www.youtube.com/watch?v=qxXcI56NfnE&t=35m27s) <br> [Operadores](https://www.youtube.com/watch?v=qxXcI56NfnE&t=1h04m10s) |
+| 3. Uso de condicionales         | [Control Flow Statements (If-Else) - Oracle](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html) <br> [Java If ... Else - W3Schools](https://www.w3schools.com/java/java_conditions.asp) <br> [Conditional Statements - GeeksforGeeks](https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/) | [Condicionales](https://www.youtube.com/watch?v=qxXcI56NfnE&t=1h23m31s)                                                                                  |
+| 4. Uso de loops                 | [Loops - Oracle Documentation](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html) <br> [Java Loops - W3Schools](https://www.w3schools.com/java/java_while_loop.asp) <br> [Loops in Java - GeeksforGeeks](https://www.geeksforgeeks.org/loops-in-java/) | [Loops](https://www.youtube.com/watch?v=qxXcI56NfnE&t=3h22m21s)                                                                                         |
+| 5. Trabajo con arrays           | [Arrays - Oracle Documentation](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html) <br> [Java Arrays - W3Schools](https://www.w3schools.com/java/java_arrays.asp) <br> [Arrays in Java - GeeksforGeeks](https://www.geeksforgeeks.org/arrays-in-java/) | [Arrays Unidimensionales y Bidimensionales](https://www.youtube.com/watch?v=qxXcI56NfnE&t=5h35m00s)                                                    |
+| 6. Trabajo con strings          | [Strings - Oracle Documentation](https://docs.oracle.com/javase/tutorial/java/data/strings.html) <br> [Java Strings - W3Schools](https://www.w3schools.com/java/java_strings.asp) <br> [String Class in Java - GeeksforGeeks](https://www.geeksforgeeks.org/string-class-in-java/) |                                                                                                                                                           |
+| Recurso Adicional: Java para Programadoras    | [Material escrito](https://resuadam2-pro.vercel.app/docs/tema4/Apuntes%20y%20Ejemplos/IntroJava)                                                                                                                                              | [Video playlist](https://www.youtube.com/playlist?list=PLgqNF1r2jtYy2sPao3vyRtJ9wNUVpJBnu)                                                              |

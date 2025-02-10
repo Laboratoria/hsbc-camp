@@ -2,8 +2,6 @@
 
 Este repositorio contiene el plan de estudios para un curso de Java de 2 meses, dividido en 4 bloques de semanas. Cada bloque se enfoca en habilidades específicas, desde lo básico hasta problemas avanzados, culminando en un proyecto final.
 
-
-
 ## Estructura del curso
 1. **[Módulo 1](Modulo_1_Java_Basics.md)** (syntax, data types, loops, conditionals).
 2. _**Módulo 2** (OOP, collections, algorithms)._
