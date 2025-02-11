@@ -25,8 +25,7 @@ El enfoque incluye:
 
 | ID     | Plataforma  | Desafío                                                                 | Habilidades                          | OA  |
 |--------|-------------|-------------------------------------------------------------------------|--------------------------------------|-----|
-| 101 | Codewars    | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004){target="_blank"}
-      | Operaciones básicas                  | 1,2 |
+| 101 | Codewars    | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004){target="_blank"}      | Operaciones básicas                  | 1,2 |
 | 102 | Codewars    | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe){target="_blank"}   | Condicionales                        | 1,3 |
 | 103 | Edabit      | [Minutes to Seconds](https://edabit.com/challenge/8q54MKnRrm89pSLmW){target="_blank"}    | Conversión de datos                  | 1,2 |
 | 104 | HackerRank  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java){target="_blank"} | Salida por consola                   | 1   |
