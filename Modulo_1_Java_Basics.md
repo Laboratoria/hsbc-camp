@@ -33,7 +33,7 @@ El enfoque incluye:
 | 106 | Codewars    | [Boolean to String](https://www.codewars.com/kata/551b4501ac0447318f0009cd){target="_blank"} | Tipos de datos                      | 1,2 |
 | 107 | HackerRank  | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else){target="_blank"}      | Condicionales                        | 3   |
 | 108 | HackerRank  | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i){target="_blank"}      | Loops                                | 4   |
-| 109 | Edabit      | [Divisible by Five](https://edabit.com/challenge/SLegK4jNvLgvC5XfL){target="_blank"}     | Condicionales                        | 3   |
+| 109 | Edabit      | [Divisible by Five](https://edabit.com/challenge/XjYMguBCEf7WqEu8M){target="_blank"}     | Condicionales                        | 3   |
 | 110 | Codewars    | [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c){target="_blank"}    | Arrays y loops                       | 5   |
 | 111 | Codewars    | [Count Positives/Sum Negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044){target="_blank"} | Arrays                     | 5   |
 | 112 | HackerRank  | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1){target="_blank"} | Entrada/Salida           | 1   |
