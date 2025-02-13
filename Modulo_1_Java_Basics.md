@@ -42,7 +42,7 @@ El enfoque incluye:
 | 115 | Codewars    | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0){target="_blank"} | Strings               | 6   |
 | 116 | Codewars    | [String Repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e){target="_blank"} | Strings y loops                      | 4   |
 | 117 | HackerRank  | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction){target="_blank"} | Strings      | 6   |
-| 118 | Edabit      | [Reverse a String](https://edabit.com/challenge/5gnyJw8N8YrvyyTLh){target="_blank"}     | Strings                              | 4   |
+| 118 | Edabit      | [Reverse a String](https://edabit.com/challenge/5gPCp7v7iDWZvb4YQ){target="_blank"}     | Strings                              | 4   |
 | 119 | Edabit      | [Check String Suffix](https://edabit.com/challenge/YTECpnCCeJsYqYvfF){target="_blank"}  | Strings                              | 4   |
 | 120 | Codewars    | [Find the Odd Int](https://www.codewars.com/kata/54da5a58ea159efa38000836){target="_blank"} | Arrays y lógica              | 3,4 |
 | 121 | Codewars    | [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc){target="_blank"} | Strings                  | 6   |
