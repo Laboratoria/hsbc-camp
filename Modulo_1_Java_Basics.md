@@ -39,7 +39,7 @@ El enfoque incluye:
 | 112 | HackerRank  | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1){target="_blank"} | Entrada/Salida           | 1   |
 | 113 | HackerRank  | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting){target="_blank"} | Formato de strings      | 6   |
 | 114 | Edabit      | [Smallest and Biggest Numbers](https://edabit.com/challenge/Q3n42rEWanZSTmsJm){target="_blank"} | Arrays                   | 5   |
-| 115 | Codewars    | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb4876000d7e){target="_blank"} | Strings               | 6   |
+| 115 | Codewars    | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0){target="_blank"} | Strings               | 6   |
 | 116 | Codewars    | [String Repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e){target="_blank"} | Strings y loops                      | 4   |
 | 117 | HackerRank  | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction){target="_blank"} | Strings      | 6   |
 | 118 | Edabit      | [Reverse a String](https://edabit.com/challenge/5gnyJw8N8YrvyyTLh){target="_blank"}     | Strings                              | 4   |
