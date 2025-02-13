@@ -1,0 +1,96 @@
+---
+title: "Welcome to Java"
+format:
+  revealjs: 
+    theme: [default]
+    parallax-background-image: 'https://images.unsplash.com/photo-1517849845537-4d257902454a'
+    background-transition: fade
+    transition: slide
+---
+
+# ¡Bienvenidas al Mundo de Java! 🎉☕
+
+## Diapositiva 1: ¡Bienvenidas al Mundo de Java! 🎉☕
+
+Java no es solo café... ¡es magia que hace funcionar apps, juegos y hasta naves espaciales! 🚀
+
+Objetivo de la charla: Romper el hielo con un ejercicio práctico y entender cómo Java nos ayuda a resolver problemas.
+
+---
+
+## Diapositiva 2: El Ejemplo Mágico 🧙♀️📆
+
+Ejercicio propuesto: Crear un método que determine si un año es bisiesto.
+
+Por qué este ejercicio:
+
+- Combina condicionales y operadores lógicos
+- Es un problema del mundo real (¡hasta Google lo usa!)
+
+---
+
+## Diapositiva 3: Desglosando el Problema 🧩
+
+Reglas de año bisiesto:
+
+1. Si el año es divisible por 4 → Posible bisiesto
+2. Pero si es divisible por 100 → No es bisiesto
+3. A menos que también sea divisible por 400 → ¡Sí es bisiesto!
+
+---
+
+## Diapositiva 4: ¡A Codear! 💻 (Parte 1)
+
+```java
+public class LeapYear {
+    public static boolean isLeapYear(int year) {
+        if (year % 4 == 0) {
+            return true;
+        } else if (year % 100 == 0) {
+            return false;
+        } else if (year % 400 == 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+}
+```
+
+---
+
+## Diapositiva 5: Depurando el Código 🐛🔍
+
+Error común: No seguir el orden correcto de las condiciones.
+
+Solución correcta:
+
+```java
+public static boolean isLeapYear(int year) {
+    if (year % 400 == 0) {
+        return true;
+    } else if (year % 100 == 0) {
+        return false;
+    } else {
+        return year % 4 == 0;
+    }
+}
+```
+
+---
+
+## Diapositiva 6: Probando Nuestro Código 🧪
+
+Ejemplos interactivos:
+
+- 2000 → Sí (divisible por 400)
+- 1900 → No (divisible por 100 pero no por 400)
+- 2024 → Sí (divisible por 4, no por 100)
+
+---
+
+## ¡Java es Poder! 💪✨
+
+Mensaje final:
+
+Cada error es un paso para dominar Java. ¡Ustedes ya resolvieron un problema real en 20 minutos! 🎉
