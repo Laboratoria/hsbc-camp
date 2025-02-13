@@ -105,6 +105,83 @@
     "text": "Practica el uso de HashMap y ArrayList para problemas de colecciones.\nUsa LocalDate y DateTimeFormatter para manejar fechas."
   },
   {
+    "objectID": "presentacion.html",
+    "href": "presentacion.html",
+    "title": "¡Bienvenidas al Mundo de Java! 🎉☕",
+    "section": "",
+    "text": "Java no es solo café… ¡es magia que hace funcionar apps, juegos y hasta naves espaciales! 🚀\nObjetivo de la charla: Romper el hielo con un ejercicio práctico y entender cómo Java nos ayuda a resolver problemas.\n\n\n\n\nEjercicio propuesto: Crear un método que determine si un año es bisiesto.\nPor qué este ejercicio:\n\nCombina condicionales y operadores lógicos\nEs un problema del mundo real (¡hasta Google lo usa!)\n\n\n\n\n\nReglas de año bisiesto:\n\nSi el año es divisible por 4 → Posible bisiesto\nPero si es divisible por 100 → No es bisiesto\nA menos que también sea divisible por 400 → ¡Sí es bisiesto!\n\n\n\n\n\npublic class LeapYear {\n    public static boolean isLeapYear(int year) {\n        if (year % 4 == 0) {\n            return true;\n        } else if (year % 100 == 0) {\n            return false;\n        } else if (year % 400 == 0) {\n            return true;\n        } else {\n            return false;\n        }\n    }\n}\n\n\n\n\nError común: No seguir el orden correcto de las condiciones.\nSolución correcta:\npublic static boolean isLeapYear(int year) {\n    if (year % 400 == 0) {\n        return true;\n    } else if (year % 100 == 0) {\n        return false;\n    } else {\n        return year % 4 == 0;\n    }\n}\n\n\n\n\nEjemplos interactivos:\n\n2000 → Sí (divisible por 400)\n1900 → No (divisible por 100 pero no por 400)\n2024 → Sí (divisible por 4, no por 100)\n\n\n\n\n\nTips para no abrumarse:\n\nJava es como un tamagotchi: requiere atención, pero no muerde 🐶\nErrores comunes:\n\nOlvidar == vs =\nNo probar casos extremos\n\n\n\n\n\n\nPreguntas frecuentes:\n\n¿Java funciona en mi cafetera? → Sí, si tiene Java ME ☕\n¿Por qué mi código compila pero no hace lo que quiero? → ¡Hablemos de lógica!\n\n\n\n\n\nEjercicio para practicar:\nModifica el método para que también verifique si el año es mayor que 1582.\nPremio simbólico: Sticker virtual de “Java Ninja” 🥋\n\n\n\n\nMensaje final:\nCada error es un paso para dominar Java. ¡Ustedes ya resolvieron un problema real en 20 minutos! 🎉"
+  },
+  {
+    "objectID": "presentacion.html#diapositiva-1-bienvenidas-al-mundo-de-java",
+    "href": "presentacion.html#diapositiva-1-bienvenidas-al-mundo-de-java",
+    "title": "¡Bienvenidas al Mundo de Java! 🎉☕",
+    "section": "",
+    "text": "Java no es solo café… ¡es magia que hace funcionar apps, juegos y hasta naves espaciales! 🚀\nObjetivo de la charla: Romper el hielo con un ejercicio práctico y entender cómo Java nos ayuda a resolver problemas."
+  },
+  {
+    "objectID": "presentacion.html#diapositiva-2-el-ejemplo-mágico",
+    "href": "presentacion.html#diapositiva-2-el-ejemplo-mágico",
+    "title": "¡Bienvenidas al Mundo de Java! 🎉☕",
+    "section": "",
+    "text": "Ejercicio propuesto: Crear un método que determine si un año es bisiesto.\nPor qué este ejercicio:\n\nCombina condicionales y operadores lógicos\nEs un problema del mundo real (¡hasta Google lo usa!)"
+  },
+  {
+    "objectID": "presentacion.html#diapositiva-3-desglosando-el-problema",
+    "href": "presentacion.html#diapositiva-3-desglosando-el-problema",
+    "title": "¡Bienvenidas al Mundo de Java! 🎉☕",
+    "section": "",
+    "text": "Reglas de año bisiesto:\n\nSi el año es divisible por 4 → Posible bisiesto\nPero si es divisible por 100 → No es bisiesto\nA menos que también sea divisible por 400 → ¡Sí es bisiesto!"
+  },
+  {
+    "objectID": "presentacion.html#diapositiva-4-a-codear-parte-1",
+    "href": "presentacion.html#diapositiva-4-a-codear-parte-1",
+    "title": "¡Bienvenidas al Mundo de Java! 🎉☕",
+    "section": "",
+    "text": "public class LeapYear {\n    public static boolean isLeapYear(int year) {\n        if (year % 4 == 0) {\n            return true;\n        } else if (year % 100 == 0) {\n            return false;\n        } else if (year % 400 == 0) {\n            return true;\n        } else {\n            return false;\n        }\n    }\n}"
+  },
+  {
+    "objectID": "presentacion.html#diapositiva-5-depurando-el-código",
+    "href": "presentacion.html#diapositiva-5-depurando-el-código",
+    "title": "¡Bienvenidas al Mundo de Java! 🎉☕",
+    "section": "",
+    "text": "Error común: No seguir el orden correcto de las condiciones.\nSolución correcta:\npublic static boolean isLeapYear(int year) {\n    if (year % 400 == 0) {\n        return true;\n    } else if (year % 100 == 0) {\n        return false;\n    } else {\n        return year % 4 == 0;\n    }\n}"
+  },
+  {
+    "objectID": "presentacion.html#diapositiva-6-probando-nuestro-código",
+    "href": "presentacion.html#diapositiva-6-probando-nuestro-código",
+    "title": "¡Bienvenidas al Mundo de Java! 🎉☕",
+    "section": "",
+    "text": "Ejemplos interactivos:\n\n2000 → Sí (divisible por 400)\n1900 → No (divisible por 100 pero no por 400)\n2024 → Sí (divisible por 4, no por 100)"
+  },
+  {
+    "objectID": "presentacion.html#diapositiva-7-java-vs-la-vida-real",
+    "href": "presentacion.html#diapositiva-7-java-vs-la-vida-real",
+    "title": "¡Bienvenidas al Mundo de Java! 🎉☕",
+    "section": "",
+    "text": "Tips para no abrumarse:\n\nJava es como un tamagotchi: requiere atención, pero no muerde 🐶\nErrores comunes:\n\nOlvidar == vs =\nNo probar casos extremos"
+  },
+  {
+    "objectID": "presentacion.html#diapositiva-8-preguntas-tiempo-de-rescate",
+    "href": "presentacion.html#diapositiva-8-preguntas-tiempo-de-rescate",
+    "title": "¡Bienvenidas al Mundo de Java! 🎉☕",
+    "section": "",
+    "text": "Preguntas frecuentes:\n\n¿Java funciona en mi cafetera? → Sí, si tiene Java ME ☕\n¿Por qué mi código compila pero no hace lo que quiero? → ¡Hablemos de lógica!"
+  },
+  {
+    "objectID": "presentacion.html#diapositiva-9-tarea-divertida",
+    "href": "presentacion.html#diapositiva-9-tarea-divertida",
+    "title": "¡Bienvenidas al Mundo de Java! 🎉☕",
+    "section": "",
+    "text": "Ejercicio para practicar:\nModifica el método para que también verifique si el año es mayor que 1582.\nPremio simbólico: Sticker virtual de “Java Ninja” 🥋"
+  },
+  {
+    "objectID": "presentacion.html#diapositiva-10-java-es-poder",
+    "href": "presentacion.html#diapositiva-10-java-es-poder",
+    "title": "¡Bienvenidas al Mundo de Java! 🎉☕",
+    "section": "",
+    "text": "Mensaje final:\nCada error es un paso para dominar Java. ¡Ustedes ya resolvieron un problema real en 20 minutos! 🎉"
+  },
+  {
     "objectID": "CONTRIBUTING.html",
     "href": "CONTRIBUTING.html",
     "title": "Guía de Contribución",

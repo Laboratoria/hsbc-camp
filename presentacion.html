@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>modulo_1_beginner – HSBC Java Camp by Laboratoria</title>
+<title>presentacion – HSBC Java Camp by Laboratoria</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -93,24 +127,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./Modulo_1_Beginner.html" aria-current="page"> 
+    <a class="nav-link" href="./Modulo_1_Java_Basics.html"> 
 <span class="menu-text">Módulo 1</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Modulo_2_Intermediate.html"> 
-<span class="menu-text">Módulo 2</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Modulo_3_Advanced.html"> 
-<span class="menu-text">Módulo 3</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Modulo_4_AdvancedPrep.html"> 
-<span class="menu-text">Módulo 4</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./References.html"> 
-<span class="menu-text">Referencias</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -130,11 +148,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">En esta página</h2>
    
   <ul>
-  <li><a href="#java-basics-beginner" id="toc-java-basics-beginner" class="nav-link active" data-scroll-target="#java-basics-beginner">Java Basics: Beginner</a>
+  <li><a href="#bienvenidas-al-mundo-de-java" id="toc-bienvenidas-al-mundo-de-java" class="nav-link active" data-scroll-target="#bienvenidas-al-mundo-de-java">¡Bienvenidas al Mundo de Java! 🎉☕</a>
   <ul class="collapse">
-  <li><a href="#objetivos-de-aprendizaje-oas" id="toc-objetivos-de-aprendizaje-oas" class="nav-link" data-scroll-target="#objetivos-de-aprendizaje-oas">Objetivos de Aprendizaje (OAs)</a></li>
-  <li><a href="#ejercicios" id="toc-ejercicios" class="nav-link" data-scroll-target="#ejercicios">Ejercicios</a></li>
-  <li><a href="#consejos" id="toc-consejos" class="nav-link" data-scroll-target="#consejos">Consejos</a></li>
+  <li><a href="#diapositiva-1-bienvenidas-al-mundo-de-java" id="toc-diapositiva-1-bienvenidas-al-mundo-de-java" class="nav-link" data-scroll-target="#diapositiva-1-bienvenidas-al-mundo-de-java">Diapositiva 1: ¡Bienvenidas al Mundo de Java! 🎉☕</a></li>
+  <li><a href="#diapositiva-2-el-ejemplo-mágico" id="toc-diapositiva-2-el-ejemplo-mágico" class="nav-link" data-scroll-target="#diapositiva-2-el-ejemplo-mágico">Diapositiva 2: El Ejemplo Mágico 🧙♀️📆</a></li>
+  <li><a href="#diapositiva-3-desglosando-el-problema" id="toc-diapositiva-3-desglosando-el-problema" class="nav-link" data-scroll-target="#diapositiva-3-desglosando-el-problema">Diapositiva 3: Desglosando el Problema 🧩</a></li>
+  <li><a href="#diapositiva-4-a-codear-parte-1" id="toc-diapositiva-4-a-codear-parte-1" class="nav-link" data-scroll-target="#diapositiva-4-a-codear-parte-1">Diapositiva 4: ¡A Codear! 💻 (Parte 1)</a></li>
+  <li><a href="#diapositiva-5-depurando-el-código" id="toc-diapositiva-5-depurando-el-código" class="nav-link" data-scroll-target="#diapositiva-5-depurando-el-código">Diapositiva 5: Depurando el Código 🐛🔍</a></li>
+  <li><a href="#diapositiva-6-probando-nuestro-código" id="toc-diapositiva-6-probando-nuestro-código" class="nav-link" data-scroll-target="#diapositiva-6-probando-nuestro-código">Diapositiva 6: Probando Nuestro Código 🧪</a></li>
+  <li><a href="#diapositiva-7-java-vs-la-vida-real" id="toc-diapositiva-7-java-vs-la-vida-real" class="nav-link" data-scroll-target="#diapositiva-7-java-vs-la-vida-real">Diapositiva 7: Java vs La Vida Real 😅</a></li>
+  <li><a href="#diapositiva-8-preguntas-tiempo-de-rescate" id="toc-diapositiva-8-preguntas-tiempo-de-rescate" class="nav-link" data-scroll-target="#diapositiva-8-preguntas-tiempo-de-rescate">Diapositiva 8: ¿Preguntas? ¡Tiempo de Rescate! 🚑</a></li>
+  <li><a href="#diapositiva-9-tarea-divertida" id="toc-diapositiva-9-tarea-divertida" class="nav-link" data-scroll-target="#diapositiva-9-tarea-divertida">Diapositiva 9: Tarea Divertida 🎮</a></li>
+  <li><a href="#diapositiva-10-java-es-poder" id="toc-diapositiva-10-java-es-poder" class="nav-link" data-scroll-target="#diapositiva-10-java-es-poder">Diapositiva 10: ¡Java es Poder! 💪✨</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -145,242 +170,114 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="java-basics-beginner" class="level1">
-<h1>Java Basics: Beginner</h1>
-<section id="objetivos-de-aprendizaje-oas" class="level2">
-<h2 class="anchored" data-anchor-id="objetivos-de-aprendizaje-oas">Objetivos de Aprendizaje (OAs)</h2>
-<ol type="1">
-<li>Sintaxis básica de Java.</li>
-<li>Manipulación de tipos de datos primitivos.</li>
-<li>Uso de condicionales y loops.</li>
-<li>Trabajo con arrays y strings.</li>
-</ol>
+<style>
+body {
+  background-color: var(--primary-yellow);
+}
+</style>
+<section id="bienvenidas-al-mundo-de-java" class="level1">
+<h1>¡Bienvenidas al Mundo de Java! 🎉☕</h1>
+<section id="diapositiva-1-bienvenidas-al-mundo-de-java" class="level2">
+<h2 class="anchored" data-anchor-id="diapositiva-1-bienvenidas-al-mundo-de-java">Diapositiva 1: ¡Bienvenidas al Mundo de Java! 🎉☕</h2>
+<p>Java no es solo café… ¡es magia que hace funcionar apps, juegos y hasta naves espaciales! 🚀</p>
+<p>Objetivo de la charla: Romper el hielo con un ejercicio práctico y entender cómo Java nos ayuda a resolver problemas.</p>
+<hr>
 </section>
-<section id="ejercicios" class="level2">
-<h2 class="anchored" data-anchor-id="ejercicios">Ejercicios</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>ID</th>
-<th>Plataforma</th>
-<th>Desafío</th>
-<th>Habilidades</th>
-<th>OA</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>JC0100</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/50654ddff44f800200000004">Multiply</a></td>
-<td>Operaciones básicas</td>
-<td>1,2</td>
-</tr>
-<tr class="even">
-<td>JC0101</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/53da3dbb4a5168369a0000fe">Even or Odd</a></td>
-<td>Condicionales</td>
-<td>1,3</td>
-</tr>
-<tr class="odd">
-<td>JC0103</td>
-<td>Edabit</td>
-<td><a href="https://edabit.com/challenge/8q54MKnRrm89pSLmW">Minutes to Seconds</a></td>
-<td>Conversión de datos</td>
-<td>1,2</td>
-</tr>
-<tr class="even">
-<td>JC0104</td>
-<td>HackerRank</td>
-<td><a href="https://www.hackerrank.com/challenges/welcome-to-java">Welcome to Java!</a></td>
-<td>Salida por consola</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>JC0105</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/582cb0224e56e068d800003c">Keep Hydrated!</a></td>
-<td>Loops y matemáticas</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>JC0106</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/551b4501ac0447318f0009cd">Boolean to String</a></td>
-<td>Tipos de datos</td>
-<td>1,2</td>
-</tr>
-<tr class="odd">
-<td>JC0107</td>
-<td>HackerRank</td>
-<td><a href="https://www.hackerrank.com/challenges/java-if-else">Java If-Else</a></td>
-<td>Condicionales</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>JC0108</td>
-<td>HackerRank</td>
-<td><a href="https://www.hackerrank.com/challenges/java-loops-i">Java Loops I</a></td>
-<td>Loops</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>JC0109</td>
-<td>Edabit</td>
-<td><a href="https://edabit.com/challenge/SLegK4jNvLgvC5XfL">Divisible by Five</a></td>
-<td>Condicionales</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>JC0110</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/53dc54212259ed3d4f00071c">Sum Arrays</a></td>
-<td>Arrays y loops</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>JC0111</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/576bb71bbbcf0951d5000044">Count Positives/Sum Negatives</a></td>
-<td>Arrays</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>JC0112</td>
-<td>HackerRank</td>
-<td><a href="https://www.hackerrank.com/challenges/java-stdin-and-stdout-1">Java Stdin and Stdout I</a></td>
-<td>Entrada/Salida</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>JC0113</td>
-<td>HackerRank</td>
-<td><a href="https://www.hackerrank.com/challenges/java-output-formatting">Java Output Formatting</a></td>
-<td>Formato de strings</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>JC0114</td>
-<td>Edabit</td>
-<td><a href="https://edabit.com/challenge/Q3n42rEWanZSTmsJm">Smallest and Biggest Numbers</a></td>
-<td>Arrays</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>JC0115</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/56bc28ad5bdaeb4876000d7e">Remove First and Last Character</a></td>
-<td>Strings</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>JC0116</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e">String Repeat</a></td>
-<td>Strings y loops</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>JC0117</td>
-<td>HackerRank</td>
-<td><a href="https://www.hackerrank.com/challenges/java-strings-introduction">Java Strings Introduction</a></td>
-<td>Strings</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>JC0118</td>
-<td>Edabit</td>
-<td><a href="https://edabit.com/challenge/5gnyJw8N8YrvyyTLh">Reverse a String</a></td>
-<td>Strings</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>JC0119</td>
-<td>Edabit</td>
-<td><a href="https://edabit.com/challenge/YTECpnCCeJsYqYvfF">Check String Suffix</a></td>
-<td>Strings</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>JC0120</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/54da5a58ea159efa38000836">Find the Odd Int</a></td>
-<td>Arrays y lógica</td>
-<td>3,4</td>
-</tr>
-<tr class="odd">
-<td>JC0121</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/5412509bd436bd33920011bc">Credit Card Mask</a></td>
-<td>Strings</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>JC0122</td>
-<td>HackerRank</td>
-<td><a href="https://www.hackerrank.com/challenges/java-negative-subarray">Java Subarray</a></td>
-<td>Arrays y loops</td>
-<td>3,4</td>
-</tr>
-<tr class="odd">
-<td>JC0123</td>
-<td>HackerRank</td>
-<td><a href="https://www.hackerrank.com/challenges/java-string-tokens">Java String Tokens</a></td>
-<td>Strings</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>JC0124</td>
-<td>Edabit</td>
-<td><a href="https://edabit.com/challenge/ENNmwseEab73TMoBc">Count Duplicates</a></td>
-<td>Strings y colecciones</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>JC0125</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/54ba84be607a92aa900000f1">Isograms</a></td>
-<td>Strings</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>JC0126</td>
-<td>Codewars</td>
-<td><a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3">Vowel Count</a></td>
-<td>Strings y loops</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>JC0127</td>
-<td>HackerRank</td>
-<td><a href="https://www.hackerrank.com/challenges/java-datatypes">Java Datatypes</a></td>
-<td>Tipos de datos</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>JC0128</td>
-<td>Edabit</td>
-<td><a href="https://edabit.com/challenge/tMrbB6cwZDWGjvKKj">Check Palindrome Number</a></td>
-<td>Condicionales y números</td>
-<td>3,4</td>
-</tr>
-<tr class="odd">
-<td>JC0129</td>
-<td>Edabit</td>
-<td><a href="https://edabit.com/challenge/hymPkXdhmDQLe87QT">Largest Number in Array</a></td>
-<td>Arrays</td>
-<td>4</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="consejos" class="level2">
-<h2 class="anchored" data-anchor-id="consejos">Consejos</h2>
+<section id="diapositiva-2-el-ejemplo-mágico" class="level2">
+<h2 class="anchored" data-anchor-id="diapositiva-2-el-ejemplo-mágico">Diapositiva 2: El Ejemplo Mágico 🧙♀️📆</h2>
+<p>Ejercicio propuesto: Crear un método que determine si un año es bisiesto.</p>
+<p>Por qué este ejercicio:</p>
 <ul>
-<li>Usa <code>System.out.println</code> para depurar tu código.</li>
-<li>Prueba casos extremos: arrays vacíos, valores negativos, etc.</li>
+<li>Combina condicionales y operadores lógicos</li>
+<li>Es un problema del mundo real (¡hasta Google lo usa!)</li>
 </ul>
+<hr>
+</section>
+<section id="diapositiva-3-desglosando-el-problema" class="level2">
+<h2 class="anchored" data-anchor-id="diapositiva-3-desglosando-el-problema">Diapositiva 3: Desglosando el Problema 🧩</h2>
+<p>Reglas de año bisiesto:</p>
+<ol type="1">
+<li>Si el año es divisible por 4 → Posible bisiesto</li>
+<li>Pero si es divisible por 100 → No es bisiesto</li>
+<li>A menos que también sea divisible por 400 → ¡Sí es bisiesto!</li>
+</ol>
+<hr>
+</section>
+<section id="diapositiva-4-a-codear-parte-1" class="level2">
+<h2 class="anchored" data-anchor-id="diapositiva-4-a-codear-parte-1">Diapositiva 4: ¡A Codear! 💻 (Parte 1)</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode java code-with-copy"><code class="sourceCode java"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="kw">public</span> <span class="kw">class</span> LeapYear <span class="op">{</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="kw">public</span> <span class="dt">static</span> <span class="dt">boolean</span> <span class="fu">isLeapYear</span><span class="op">(</span><span class="dt">int</span> year<span class="op">)</span> <span class="op">{</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> <span class="op">(</span>year <span class="op">%</span> <span class="dv">4</span> <span class="op">==</span> <span class="dv">0</span><span class="op">)</span> <span class="op">{</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>            <span class="cf">return</span> <span class="kw">true</span><span class="op">;</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>        <span class="op">}</span> <span class="cf">else</span> <span class="cf">if</span> <span class="op">(</span>year <span class="op">%</span> <span class="dv">100</span> <span class="op">==</span> <span class="dv">0</span><span class="op">)</span> <span class="op">{</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>            <span class="cf">return</span> <span class="kw">false</span><span class="op">;</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>        <span class="op">}</span> <span class="cf">else</span> <span class="cf">if</span> <span class="op">(</span>year <span class="op">%</span> <span class="dv">400</span> <span class="op">==</span> <span class="dv">0</span><span class="op">)</span> <span class="op">{</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>            <span class="cf">return</span> <span class="kw">true</span><span class="op">;</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>        <span class="op">}</span> <span class="cf">else</span> <span class="op">{</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>            <span class="cf">return</span> <span class="kw">false</span><span class="op">;</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>        <span class="op">}</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    <span class="op">}</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="op">}</span></span></code><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<hr>
+</section>
+<section id="diapositiva-5-depurando-el-código" class="level2">
+<h2 class="anchored" data-anchor-id="diapositiva-5-depurando-el-código">Diapositiva 5: Depurando el Código 🐛🔍</h2>
+<p>Error común: No seguir el orden correcto de las condiciones.</p>
+<p>Solución correcta:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode java code-with-copy"><code class="sourceCode java"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">public</span> <span class="dt">static</span> <span class="dt">boolean</span> <span class="fu">isLeapYear</span><span class="op">(</span><span class="dt">int</span> year<span class="op">)</span> <span class="op">{</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> <span class="op">(</span>year <span class="op">%</span> <span class="dv">400</span> <span class="op">==</span> <span class="dv">0</span><span class="op">)</span> <span class="op">{</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="kw">true</span><span class="op">;</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>    <span class="op">}</span> <span class="cf">else</span> <span class="cf">if</span> <span class="op">(</span>year <span class="op">%</span> <span class="dv">100</span> <span class="op">==</span> <span class="dv">0</span><span class="op">)</span> <span class="op">{</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="kw">false</span><span class="op">;</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>    <span class="op">}</span> <span class="cf">else</span> <span class="op">{</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> year <span class="op">%</span> <span class="dv">4</span> <span class="op">==</span> <span class="dv">0</span><span class="op">;</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>    <span class="op">}</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="op">}</span></span></code><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<hr>
+</section>
+<section id="diapositiva-6-probando-nuestro-código" class="level2">
+<h2 class="anchored" data-anchor-id="diapositiva-6-probando-nuestro-código">Diapositiva 6: Probando Nuestro Código 🧪</h2>
+<p>Ejemplos interactivos:</p>
+<ul>
+<li>2000 → Sí (divisible por 400)</li>
+<li>1900 → No (divisible por 100 pero no por 400)</li>
+<li>2024 → Sí (divisible por 4, no por 100)</li>
+</ul>
+<hr>
+</section>
+<section id="diapositiva-7-java-vs-la-vida-real" class="level2">
+<h2 class="anchored" data-anchor-id="diapositiva-7-java-vs-la-vida-real">Diapositiva 7: Java vs La Vida Real 😅</h2>
+<p>Tips para no abrumarse:</p>
+<ul>
+<li>Java es como un tamagotchi: requiere atención, pero no muerde 🐶</li>
+<li>Errores comunes:
+<ul>
+<li>Olvidar == vs =</li>
+<li>No probar casos extremos</li>
+</ul></li>
+</ul>
+<hr>
+</section>
+<section id="diapositiva-8-preguntas-tiempo-de-rescate" class="level2">
+<h2 class="anchored" data-anchor-id="diapositiva-8-preguntas-tiempo-de-rescate">Diapositiva 8: ¿Preguntas? ¡Tiempo de Rescate! 🚑</h2>
+<p>Preguntas frecuentes:</p>
+<ul>
+<li>¿Java funciona en mi cafetera? → Sí, si tiene Java ME ☕</li>
+<li>¿Por qué mi código compila pero no hace lo que quiero? → ¡Hablemos de lógica!</li>
+</ul>
+<hr>
+</section>
+<section id="diapositiva-9-tarea-divertida" class="level2">
+<h2 class="anchored" data-anchor-id="diapositiva-9-tarea-divertida">Diapositiva 9: Tarea Divertida 🎮</h2>
+<p>Ejercicio para practicar:</p>
+<p>Modifica el método para que también verifique si el año es mayor que 1582.</p>
+<p>Premio simbólico: Sticker virtual de “Java Ninja” 🥋</p>
+<hr>
+</section>
+<section id="diapositiva-10-java-es-poder" class="level2">
+<h2 class="anchored" data-anchor-id="diapositiva-10-java-es-poder">Diapositiva 10: ¡Java es Poder! 💪✨</h2>
+<p>Mensaje final:</p>
+<p>Cada error es un paso para dominar Java. ¡Ustedes ya resolvieron un problema real en 20 minutos! 🎉</p>
 
 
 </section>
