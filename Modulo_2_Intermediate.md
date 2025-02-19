@@ -6,7 +6,7 @@
 3. Resolver problemas con lógica intermedia y manipulación de strings.
 4. Introducir el manejo de fechas y tiempos.
 
-## Desafíos (Ordenados por Dificultad)
+## Desafíos
 
 | ID  | Plataforma    | Desafío                                                                                     | Habilidades                                   | OA  |
 |-----|---------------|---------------------------------------------------------------------------------------------|-----------------------------------------------|-----|
