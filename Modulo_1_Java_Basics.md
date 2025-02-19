@@ -52,7 +52,7 @@ El enfoque incluye:
 | 125 | Codewars    | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1){target="_blank"}     | Strings                              | 3,6   |
 | 126 | Codewars    | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3){target="_blank"}  | Strings y loops                      | 4   |
 | 127 | HackerRank  | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes){target="_blank"} | Tipos de datos                       | 2   |
-| 128 | CodeWars | [Check Palindrome Number](https://www.codewars.com/kata/599b1a4a3c5292b4cc0000d5/train/python){target="_blank"} | Condicionales y números      | 3,4 |
+| 128 | CodeWars | [Palindrome integer composition](https://www.codewars.com/kata/599b1a4a3c5292b4cc0000d5/train/python){target="_blank"} | Condicionales y números      | 3,4 |
 | 129 | HackerRank | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem){target="_blank"} | Arrays                   | 5   |
 
 ## Consejos
