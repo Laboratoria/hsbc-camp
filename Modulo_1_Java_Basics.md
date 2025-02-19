@@ -43,17 +43,17 @@ El enfoque incluye:
 | 116 | Codewars    | [String Repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e){target="_blank"} | Strings y loops                      | 4   |
 | 117 | HackerRank  | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction){target="_blank"} | Strings      | 6   |
 | 118 | Edabit      | [Reverse a String](https://edabit.com/challenge/5gPCp7v7iDWZvb4YQ){target="_blank"}     | Strings                              | 4   |
-| 119 | Edabit      | [Check String Suffix](https://edabit.com/challenge/YTECpnCCeJsYqYvfF){target="_blank"}  | Strings                              | 4   |
+| 119 | Codewars | [Check String Suffix](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d){target="_blank"}  | Strings                              | 4   |
 | 120 | Codewars    | [Find the Odd Int](https://www.codewars.com/kata/54da5a58ea159efa38000836){target="_blank"} | Arrays y lógica              | 3,4 |
 | 121 | Codewars    | [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc){target="_blank"} | Strings                  | 6   |
 | 122 | HackerRank  | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray){target="_blank"} | Arrays y loops          | 3,4 |
 | 123 | HackerRank  | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens){target="_blank"} | Strings               | 5,6   |
-| 124 | Edabit      | [Count Duplicates](https://edabit.com/challenge/ENNmwseEab73TMoBc){target="_blank"}     | Strings y colecciones                | 3,6   |
+| 124 | Codewars | [Count Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1){target="_blank"}     | Strings y colecciones                | 3,6   |
 | 125 | Codewars    | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1){target="_blank"}     | Strings                              | 3,6   |
 | 126 | Codewars    | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3){target="_blank"}  | Strings y loops                      | 4   |
 | 127 | HackerRank  | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes){target="_blank"} | Tipos de datos                       | 2   |
-| 128 | Edabit      | [Check Palindrome Number](https://edabit.com/challenge/tMrbB6cwZDWGjvKKj){target="_blank"} | Condicionales y números      | 3,4 |
-| 129 | Edabit      | [Largest Number in Array](https://edabit.com/challenge/hymPkXdhmDQLe87QT){target="_blank"} | Arrays                   | 5   |
+| 128 | CodeWars | [Check Palindrome Number](https://www.codewars.com/kata/599b1a4a3c5292b4cc0000d5/train/python){target="_blank"} | Condicionales y números      | 3,4 |
+| 129 | HackerRank | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem){target="_blank"} | Arrays                   | 5   |
 
 ## Consejos
 - Usa `System.out.println` para depurar tu código.
