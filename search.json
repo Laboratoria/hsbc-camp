@@ -77,32 +77,25 @@
     "text": "Usa LocalDate y DateTimeFormatter para manejar fechas en problemas como Banker’s Plan.\nPractica la división de problemas en subtareas (por ejemplo, calcular ingresos, aplicar tarifas, etc.).\nPrueba casos extremos: transacciones vacías, meses sin actividad, etc."
   },
   {
-    "objectID": "Modulo_2_Intermediate.html",
-    "href": "Modulo_2_Intermediate.html",
-    "title": "Intermediate Challenges",
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Guía de Contribución",
     "section": "",
-    "text": "Introducir conceptos de Programación Orientada a Objetos (OOP).\nTrabajar con colecciones (listas, mapas, conjuntos).\nResolver problemas con lógica intermedia y manipulación de strings.\nIntroducir el manejo de fechas y tiempos.\n\n\n\n\n\n\n\nPlataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nLeetCode\nValid Parentheses\nStacks, strings\n3\n\n\nHackerRank\nJava Date and Time\nManejo de fechas\n4\n\n\nHackerRank\nJava Map\nColecciones (HashMap)\n2\n\n\nCodewars\nWho Likes It?\nFormato de strings\n3\n\n\nEdabit\nATM Machine\nOOP, condicionales\n1,3\n\n\n\n\n\n\n\nPractica el uso de HashMap y ArrayList para problemas de colecciones.\nUsa LocalDate y DateTimeFormatter para manejar fechas."
+    "text": "Para contribuir a este proyecto, sigue estos pasos:\n\n\n\nInstala Quarto Descarga e instala Quarto desde: https://quarto.org/docs/get-started/\nExtensión VSCode (opcional) Instala la extensión oficial de Quarto en Visual Studio Code.\n\n\n\n\n\nVista previa: Ejecuta quarto preview para ver los cambios localmente\nPublicar: Usa quarto publish gh-pages para publicar en GitHub Pages\n\nPara más información consulta la documentación oficial de Quarto."
   },
   {
-    "objectID": "Modulo_2_Intermediate.html#objetivos-de-aprendizaje-oas",
-    "href": "Modulo_2_Intermediate.html#objetivos-de-aprendizaje-oas",
-    "title": "Intermediate Challenges",
+    "objectID": "CONTRIBUTING.html#requisitos",
+    "href": "CONTRIBUTING.html#requisitos",
+    "title": "Guía de Contribución",
     "section": "",
-    "text": "Introducir conceptos de Programación Orientada a Objetos (OOP).\nTrabajar con colecciones (listas, mapas, conjuntos).\nResolver problemas con lógica intermedia y manipulación de strings.\nIntroducir el manejo de fechas y tiempos."
+    "text": "Instala Quarto Descarga e instala Quarto desde: https://quarto.org/docs/get-started/\nExtensión VSCode (opcional) Instala la extensión oficial de Quarto en Visual Studio Code."
   },
   {
-    "objectID": "Modulo_2_Intermediate.html#desafíos",
-    "href": "Modulo_2_Intermediate.html#desafíos",
-    "title": "Intermediate Challenges",
+    "objectID": "CONTRIBUTING.html#uso-básico",
+    "href": "CONTRIBUTING.html#uso-básico",
+    "title": "Guía de Contribución",
     "section": "",
-    "text": "Plataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nLeetCode\nValid Parentheses\nStacks, strings\n3\n\n\nHackerRank\nJava Date and Time\nManejo de fechas\n4\n\n\nHackerRank\nJava Map\nColecciones (HashMap)\n2\n\n\nCodewars\nWho Likes It?\nFormato de strings\n3\n\n\nEdabit\nATM Machine\nOOP, condicionales\n1,3"
-  },
-  {
-    "objectID": "Modulo_2_Intermediate.html#consejos",
-    "href": "Modulo_2_Intermediate.html#consejos",
-    "title": "Intermediate Challenges",
-    "section": "",
-    "text": "Practica el uso de HashMap y ArrayList para problemas de colecciones.\nUsa LocalDate y DateTimeFormatter para manejar fechas."
+    "text": "Vista previa: Ejecuta quarto preview para ver los cambios localmente\nPublicar: Usa quarto publish gh-pages para publicar en GitHub Pages\n\nPara más información consulta la documentación oficial de Quarto."
   },
   {
     "objectID": "presentacion.html#diapositiva-1-bienvenidas-al-mundo-de-java",
@@ -154,25 +147,32 @@
     "text": "¡Java es Poder! 💪✨\nMensaje final:\nCada error es un paso para dominar Java. ¡Ustedes ya resolvieron un problema real en 20 minutos! 🎉"
   },
   {
-    "objectID": "CONTRIBUTING.html",
-    "href": "CONTRIBUTING.html",
-    "title": "Guía de Contribución",
+    "objectID": "Modulo_2_Deeper_Java.html",
+    "href": "Modulo_2_Deeper_Java.html",
+    "title": "Deeper Java",
     "section": "",
-    "text": "Para contribuir a este proyecto, sigue estos pasos:\n\n\n\nInstala Quarto Descarga e instala Quarto desde: https://quarto.org/docs/get-started/\nExtensión VSCode (opcional) Instala la extensión oficial de Quarto en Visual Studio Code.\n\n\n\n\n\nVista previa: Ejecuta quarto preview para ver los cambios localmente\nPublicar: Usa quarto publish gh-pages para publicar en GitHub Pages\n\nPara más información consulta la documentación oficial de Quarto."
+    "text": "Introducir conceptos de Programación Orientada a Objetos (OOP).\nTrabajar con colecciones (listas, mapas, conjuntos).\nResolver problemas con lógica intermedia y manipulación de strings.\nIntroducir el manejo de fechas y tiempos.\n\n\n\n\n\n\n\nID\nPlataforma\nDesafío\nHabilidades\nOA\n\n\n\n\n201\nHackerRank\nJava Map\nColecciones (HashMap)\n2\n\n\n202\nCodewars\nWho Likes It?\nFormato de strings\n3\n\n\n203\nHackerRank\nJava List\nManipulación de listas\n2\n\n\n204\nCodewars\nUnique In Order\nUso de listas para eliminar duplicados\n2\n\n\n205\nLeetCode\nValid Parentheses\nStack, manipulación de strings\n3\n\n\n206\nHackerRank\nJava String Reverse\nManipulación de strings, palíndromos\n3\n\n\n207\nCodewars\nDuplicate Encoder\nManipulación de strings, contadores\n3\n\n\n208\nHackerRank\nJava Date and Time\nJava Date Time API\n4\n\n\n209\nEdabit\nATM Machine\nOOP, condicionales\n1,3\n\n\n210\nExercism\nElon’s Toy Car\nOOP\n1\n\n\n211\nExercism\nNeed for Speed\nOOP\n1\n\n\n212\nExercism\nBooking Up for Beauty\nJava Date Time API\n4\n\n\n213\nExercism\nMeetup\nJava Date Time API\n4\n\n\n214\nCodecademy\nJava Language Families\nOOP\n1\n\n\n215\nExercism\nWizards and Warriors\nOOP\n1\n\n\n216\nHackerRank\nPrime Dates\nJava Date Time API\n4\n\n\n\n\n\n\n\n\nPractica el uso de HashMap y ArrayList para problemas de colecciones.\nUsa LocalDate y DateTimeFormatter para manejar fechas."
   },
   {
-    "objectID": "CONTRIBUTING.html#requisitos",
-    "href": "CONTRIBUTING.html#requisitos",
-    "title": "Guía de Contribución",
+    "objectID": "Modulo_2_Deeper_Java.html#objetivos-de-aprendizaje-oas",
+    "href": "Modulo_2_Deeper_Java.html#objetivos-de-aprendizaje-oas",
+    "title": "Deeper Java",
     "section": "",
-    "text": "Instala Quarto Descarga e instala Quarto desde: https://quarto.org/docs/get-started/\nExtensión VSCode (opcional) Instala la extensión oficial de Quarto en Visual Studio Code."
+    "text": "Introducir conceptos de Programación Orientada a Objetos (OOP).\nTrabajar con colecciones (listas, mapas, conjuntos).\nResolver problemas con lógica intermedia y manipulación de strings.\nIntroducir el manejo de fechas y tiempos."
   },
   {
-    "objectID": "CONTRIBUTING.html#uso-básico",
-    "href": "CONTRIBUTING.html#uso-básico",
-    "title": "Guía de Contribución",
+    "objectID": "Modulo_2_Deeper_Java.html#desafíos",
+    "href": "Modulo_2_Deeper_Java.html#desafíos",
+    "title": "Deeper Java",
     "section": "",
-    "text": "Vista previa: Ejecuta quarto preview para ver los cambios localmente\nPublicar: Usa quarto publish gh-pages para publicar en GitHub Pages\n\nPara más información consulta la documentación oficial de Quarto."
+    "text": "ID\nPlataforma\nDesafío\nHabilidades\nOA\n\n\n\n\n201\nHackerRank\nJava Map\nColecciones (HashMap)\n2\n\n\n202\nCodewars\nWho Likes It?\nFormato de strings\n3\n\n\n203\nHackerRank\nJava List\nManipulación de listas\n2\n\n\n204\nCodewars\nUnique In Order\nUso de listas para eliminar duplicados\n2\n\n\n205\nLeetCode\nValid Parentheses\nStack, manipulación de strings\n3\n\n\n206\nHackerRank\nJava String Reverse\nManipulación de strings, palíndromos\n3\n\n\n207\nCodewars\nDuplicate Encoder\nManipulación de strings, contadores\n3\n\n\n208\nHackerRank\nJava Date and Time\nJava Date Time API\n4\n\n\n209\nEdabit\nATM Machine\nOOP, condicionales\n1,3\n\n\n210\nExercism\nElon’s Toy Car\nOOP\n1\n\n\n211\nExercism\nNeed for Speed\nOOP\n1\n\n\n212\nExercism\nBooking Up for Beauty\nJava Date Time API\n4\n\n\n213\nExercism\nMeetup\nJava Date Time API\n4\n\n\n214\nCodecademy\nJava Language Families\nOOP\n1\n\n\n215\nExercism\nWizards and Warriors\nOOP\n1\n\n\n216\nHackerRank\nPrime Dates\nJava Date Time API\n4"
+  },
+  {
+    "objectID": "Modulo_2_Deeper_Java.html#consejos",
+    "href": "Modulo_2_Deeper_Java.html#consejos",
+    "title": "Deeper Java",
+    "section": "",
+    "text": "Practica el uso de HashMap y ArrayList para problemas de colecciones.\nUsa LocalDate y DateTimeFormatter para manejar fechas."
   },
   {
     "objectID": "index.html",
