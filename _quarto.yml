@@ -10,6 +10,8 @@ website:
         href: index.qmd
       - text: "Módulo 1"
         href: Modulo_1_Java_Basics.md
+      - text: "Módulo 2"
+        href: Modulo_2_Deeper_Java.md
 
 format:
   html:
