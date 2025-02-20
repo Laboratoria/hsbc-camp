@@ -4,7 +4,7 @@ Este repositorio contiene el plan de estudios para un curso de Java de 2 meses, 
 
 ## Estructura del curso
 1. **[Módulo 1](Modulo_1_Java_Basics.md)** (syntax, data types, loops, conditionals).
-2. _**Módulo 2** (OOP, collections, algorithms)._
+2. **[Módulo 2](Modulo_2_Deeper_Java.md)** (OOP, collections, algorithms).
 3. _**Módulo 3** (data structures, complex problem-solving)._
 4. _**Módulo 4** Capstone project and review._
 

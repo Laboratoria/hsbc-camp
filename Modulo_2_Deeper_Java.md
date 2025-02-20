@@ -1,4 +1,4 @@
-# Intermediate Challenges
+# Deeper Java
 
 ## Objetivos de aprendizaje (OAs)
 1. Introducir conceptos de Programación Orientada a Objetos (OOP).
