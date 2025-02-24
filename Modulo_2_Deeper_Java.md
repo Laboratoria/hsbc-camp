@@ -26,9 +26,19 @@
 | 214 | Codecademy    | [Java Language Families](https://www.codecademy.com/courses/learn-java/projects/java-language-families) | OOP                                           | 1   |
 | 215 | Exercism      | [Wizards and Warriors](https://exercism.org/tracks/java/exercises/wizards-and-warriors)    | OOP                                           | 1   |
 | 216 | HackerRank    | [Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem)                    | Java Date Time API                            | 4   |
-
+| 217 | Codecademy    | [Language Families](https://www.codecademy.com/projects/practice/java-language-families)                    | OOP                            | 4   |
 ---
 
 ## Consejos
 - Practica el uso de `HashMap` y `ArrayList` para problemas de colecciones.
 - Usa `LocalDate` y `DateTimeFormatter` para manejar fechas.
+
+## Materiales de Referencia
+
+| Objetivo de Aprendizaje | Materiales Escritos                                                                                                                                                                                                                             |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Introducir conceptos de Programación Orientada a Objetos (OOP).      | [Java OOP(Object Oriented Programming) Concepts](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/) <br> [Java Class and Object Quiz](https://www.geeksforgeeks.org/quizzes/class-and-object-2-gq/?ref=quiz_lbp)<br>[Objects, Classes, Interfaces, Packages, and Inheritance](https://dev.java/learn/oop/)<br>[Classes and Objects](https://dev.java/learn/classes-objects/)|
+| 2. Trabajar con colecciones (listas, mapas, conjuntos).      | [The Collections Framework](https://dev.java/learn/api/collections-framework/) |
+| 3. Resolver problemas con lógica intermedia y manipulación de strings.      | [Strings](https://dev.java/learn/numbers-strings/strings/)<br>[String Builders](https://dev.java/learn/numbers-strings/string-builders/) |
+| 4. Introducir el manejo de fechas y tiempos.      | [Date class in Java (With Examples)](https://www.geeksforgeeks.org/date-class-java-examples/)<br>[The Date Time API](https://dev.java/learn/date-time/) |
+
