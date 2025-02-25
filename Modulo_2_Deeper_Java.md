@@ -13,7 +13,7 @@
 | 201 | HackerRank    | [Java Map](https://www.hackerrank.com/challenges/phone-book)                               | Colecciones (HashMap)                         | 2   |
 | 202 | Codewars      | [Who Likes It?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)                    | Formato de strings                            | 3   |
 | 203 | HackerRank    | [Java List](https://www.hackerrank.com/challenges/java-list/problem)                       | Manipulación de listas                        | 2   |
-| 204 | Codewars      | [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667/train/java)       | Uso de listas para eliminar duplicados        | 2   |
+| 204 | Codewars      | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/java)       | Uso de listas para eliminar duplicados        | 2   |
 | 205 | LeetCode      | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                      | Stack, manipulación de strings                | 3   |
 | 206 | HackerRank    | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)   | Manipulación de strings, palíndromos          | 3   |
 | 207 | Codewars      | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java)     | Manipulación de strings, contadores           | 3   |
