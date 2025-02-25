@@ -18,7 +18,7 @@
 | 206 | HackerRank    | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)   | Manipulación de strings, palíndromos          | 3   |
 | 207 | Codewars      | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java)     | Manipulación de strings, contadores           | 3   |
 | 208 | HackerRank    | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time)             | Java Date Time API                            | 4   |
-| 209 | Edabit        | [ATM Machine](https://edabit.com/challenge/6K5Z7XGjZJQmKzE2y)                              | OOP, condicionales                            | 1,3 |
+| 209 | Codewars      | [ATM](https://www.codewars.com/kata/5635e7cb49adc7b54500001c/train/java)                   | OOP, condicionales                            | 1,3 |
 | 210 | Exercism      | [Elon's Toy Car](https://exercism.org/tracks/java/exercises/elons-toy-car)                 | OOP                                           | 1   |
 | 211 | Exercism      | [Need for Speed](https://exercism.org/tracks/java/exercises/need-for-speed)                | OOP                                           | 1   |
 | 212 | Exercism      | [Booking Up for Beauty](https://exercism.org/tracks/java/exercises/booking-up-for-beauty)  | Java Date Time API                            | 4   |
