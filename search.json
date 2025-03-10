@@ -186,14 +186,14 @@
     "href": "index.html",
     "title": "HSBC Java Coding Challenges Path",
     "section": "",
-    "text": "Este repositorio contiene el plan de estudios para un curso de Java de 2 meses, dividido en 4 bloques de semanas. Cada bloque se enfoca en habilidades específicas, desde lo básico hasta problemas avanzados, culminando en un proyecto final.\n\n\n\nMódulo 1 (syntax, data types, loops, conditionals).\nMódulo 2 (OOP, collections, algorithms).\nMódulo 3 (data structures, complex problem-solving).\nMódulo 4 Capstone project and review.\n\n\n\n\n\nCada sección contiene una lista de desafíos con enlaces a las plataformas.\nLos objetivos de aprendizaje (OAs) están asociados a cada desafío."
+    "text": "Este repositorio contiene el plan de estudios para un curso de Java de 2 meses, dividido en 4 bloques de semanas. Cada bloque se enfoca en habilidades específicas, desde lo básico hasta problemas avanzados, culminando en un proyecto final.\n\n\n\nMódulo 1 (syntax, data types, loops, conditionals).\nMódulo 2 (OOP, collections, algorithms).\nMódulo 3 (data structures, problem-solving).\nMódulo 4 Capstone project and review.\n\n\n\n\n\nCada sección contiene una lista de desafíos con enlaces a las plataformas.\nLos objetivos de aprendizaje (OAs) están asociados a cada desafío."
   },
   {
     "objectID": "index.html#estructura-del-curso",
     "href": "index.html#estructura-del-curso",
     "title": "HSBC Java Coding Challenges Path",
     "section": "",
-    "text": "Módulo 1 (syntax, data types, loops, conditionals).\nMódulo 2 (OOP, collections, algorithms).\nMódulo 3 (data structures, complex problem-solving).\nMódulo 4 Capstone project and review."
+    "text": "Módulo 1 (syntax, data types, loops, conditionals).\nMódulo 2 (OOP, collections, algorithms).\nMódulo 3 (data structures, problem-solving).\nMódulo 4 Capstone project and review."
   },
   {
     "objectID": "index.html#cómo-usar-este-repositorio",
@@ -203,31 +203,31 @@
     "text": "Cada sección contiene una lista de desafíos con enlaces a las plataformas.\nLos objetivos de aprendizaje (OAs) están asociados a cada desafío."
   },
   {
-    "objectID": "Modulo_3_Advanced.html",
-    "href": "Modulo_3_Advanced.html",
+    "objectID": "Modulo_3_Java_Craft.html",
+    "href": "Modulo_3_Java_Craft.html",
     "title": "Advanced Challenges",
     "section": "",
-    "text": "Profundizar en estructuras de datos avanzadas (árboles, grafos, etc.).\nResolver problemas complejos con algoritmos eficientes.\nIntroducir Big O Notation y análisis de complejidad.\nTrabajar con recursión y programación dinámica.\n\n\n\n\n\n\n\nPlataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nLeetCode\nMerge Intervals\nSorting, arrays\n2\n\n\nLeetCode\nMaximum Subarray\nProgramación dinámica\n2,3\n\n\nCodewars\nRange Extraction\nArrays, lógica\n2\n\n\nHackerRank\nJava BitSet\nManipulación de bits\n1\n\n\nAdvent of Code\nDay 1: Report Repair\nArrays, loops\n2,3\n\n\n\n\n\n\n\nAprende a identificar la complejidad temporal de tus soluciones.\nUsa recursión para problemas como “Fibonacci” o “Factorial”."
+    "text": "Profundizar en conceptos de Programación Orientada a Objetos (OOP).\nAfianzar sintaxis de Java, condicionales, loops, arrays y strings.\nResolver problemas complejos con algoritmos eficientes.\nIntroducir Big O Notation y análisis de complejidad.\n\n\n\n\n\n\n\nID\nPlataforma\nDesafío\nHabilidades\nOA\n\n\n\n\n301\nEabit\nSecret Society\nArray, Strings\n2\n\n\n302\nLeet Code\nFind Words That Can Be Formed by Characters\nArray, Strings\n2\n\n\n303\nLeet Code\nLong Pressed Name\nString\n2\n\n\n304\nLeet Code\nNumber of Good Pairs\nArray\n2\n\n\n305\nLeet Code\nRichest Customer Wealth\nArray\n2\n\n\n306\nLeet Code\nRoman to Integer\nCondicionales\n2\n\n\n307\nLeet Code\nSort Array By Parity\nArray\n2\n\n\n308\nLeet Code\nValid Anagram\nString\n2\n\n\n309\nCodewars\nMultiples of 3 or 5\nInteger\n2\n\n\n310\nCodewars\nFormat words into a sentence\nArray, Strings\n2\n\n\n311\nCodewars\nArray.diff\nArray\n2\n\n\n312\nCodewars\nHuman Readable Time\nJava Date Time API\n2\n\n\n313\nLeet Code\nMerge Intervals\nArray\n2\n\n\n314\nLeet Code\nMaximum Subarray\nArray\n2\n\n\n315\nCodewars\nRange Extraction\nArray\n2\n\n\n316\nCodewars\nMolecule to Atoms*\nString\n3, 4\n\n\n317\nCodewars\nString incrementer*\nString\n3, 4\n\n\n318\nCodewars\nMerged String Checker*\nArray, Strings\n3, 4\n\n\n319\nCodewars\nClosest elevator*\nArray\n3, 4\n\n\n320\nLeet Code\nMinimum Number of Operations to Move All Balls to Each Box*\nLoop\n3, 4\n\n\n321\nCodewars\nThe Lift*\nArray\n3, 4\n\n\n322\nAdvent of Code\nReport Repair*\nArray\n3, 4\n\n\n323\nCodewars\nRecursion 101*\nRecursion\n3, 4\n\n\n324\nLeet Code\nDeepest Leaves Sum*\nRecursion\n3, 4\n\n\n325\nLeet Code\nNumbers of Islands*\nRecursion\n3, 4\n\n\n\nLos ejercicios marcados con * tiene una alta complejidad. Intenta resolverlos pero no te frustes si no puedes llegar a una solución definitiva.\n\n\n\n\n\n\nObjetivo de Aprendizaje\nMateriales Escritos\n\n\n\n\n1. Profundizar en conceptos de Programación Orientada a Objetos (OOP).\nJava OOP(Object Oriented Programming) Concepts  Java Class and Object QuizObjects, Classes, Interfaces, Packages, and InheritanceClasses and Objects\n\n\n3. Resolver problemas complejos con algoritmos eficientes.\nRecursion in Java Full Tutorial - How to Create Recursive Methods\n\n\n4. Introducir Big O Notation y análisis de complejidad.\nBig-O Notation - For Coding Interviews"
   },
   {
-    "objectID": "Modulo_3_Advanced.html#objetivos-de-aprendizaje-oas",
-    "href": "Modulo_3_Advanced.html#objetivos-de-aprendizaje-oas",
+    "objectID": "Modulo_3_Java_Craft.html#objetivos-de-aprendizaje-oas",
+    "href": "Modulo_3_Java_Craft.html#objetivos-de-aprendizaje-oas",
     "title": "Advanced Challenges",
     "section": "",
-    "text": "Profundizar en estructuras de datos avanzadas (árboles, grafos, etc.).\nResolver problemas complejos con algoritmos eficientes.\nIntroducir Big O Notation y análisis de complejidad.\nTrabajar con recursión y programación dinámica."
+    "text": "Profundizar en conceptos de Programación Orientada a Objetos (OOP).\nAfianzar sintaxis de Java, condicionales, loops, arrays y strings.\nResolver problemas complejos con algoritmos eficientes.\nIntroducir Big O Notation y análisis de complejidad."
   },
   {
-    "objectID": "Modulo_3_Advanced.html#desafíos",
-    "href": "Modulo_3_Advanced.html#desafíos",
+    "objectID": "Modulo_3_Java_Craft.html#desafíos",
+    "href": "Modulo_3_Java_Craft.html#desafíos",
     "title": "Advanced Challenges",
     "section": "",
-    "text": "Plataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nLeetCode\nMerge Intervals\nSorting, arrays\n2\n\n\nLeetCode\nMaximum Subarray\nProgramación dinámica\n2,3\n\n\nCodewars\nRange Extraction\nArrays, lógica\n2\n\n\nHackerRank\nJava BitSet\nManipulación de bits\n1\n\n\nAdvent of Code\nDay 1: Report Repair\nArrays, loops\n2,3"
+    "text": "ID\nPlataforma\nDesafío\nHabilidades\nOA\n\n\n\n\n301\nEabit\nSecret Society\nArray, Strings\n2\n\n\n302\nLeet Code\nFind Words That Can Be Formed by Characters\nArray, Strings\n2\n\n\n303\nLeet Code\nLong Pressed Name\nString\n2\n\n\n304\nLeet Code\nNumber of Good Pairs\nArray\n2\n\n\n305\nLeet Code\nRichest Customer Wealth\nArray\n2\n\n\n306\nLeet Code\nRoman to Integer\nCondicionales\n2\n\n\n307\nLeet Code\nSort Array By Parity\nArray\n2\n\n\n308\nLeet Code\nValid Anagram\nString\n2\n\n\n309\nCodewars\nMultiples of 3 or 5\nInteger\n2\n\n\n310\nCodewars\nFormat words into a sentence\nArray, Strings\n2\n\n\n311\nCodewars\nArray.diff\nArray\n2\n\n\n312\nCodewars\nHuman Readable Time\nJava Date Time API\n2\n\n\n313\nLeet Code\nMerge Intervals\nArray\n2\n\n\n314\nLeet Code\nMaximum Subarray\nArray\n2\n\n\n315\nCodewars\nRange Extraction\nArray\n2\n\n\n316\nCodewars\nMolecule to Atoms*\nString\n3, 4\n\n\n317\nCodewars\nString incrementer*\nString\n3, 4\n\n\n318\nCodewars\nMerged String Checker*\nArray, Strings\n3, 4\n\n\n319\nCodewars\nClosest elevator*\nArray\n3, 4\n\n\n320\nLeet Code\nMinimum Number of Operations to Move All Balls to Each Box*\nLoop\n3, 4\n\n\n321\nCodewars\nThe Lift*\nArray\n3, 4\n\n\n322\nAdvent of Code\nReport Repair*\nArray\n3, 4\n\n\n323\nCodewars\nRecursion 101*\nRecursion\n3, 4\n\n\n324\nLeet Code\nDeepest Leaves Sum*\nRecursion\n3, 4\n\n\n325\nLeet Code\nNumbers of Islands*\nRecursion\n3, 4\n\n\n\nLos ejercicios marcados con * tiene una alta complejidad. Intenta resolverlos pero no te frustes si no puedes llegar a una solución definitiva."
   },
   {
-    "objectID": "Modulo_3_Advanced.html#consejos",
-    "href": "Modulo_3_Advanced.html#consejos",
+    "objectID": "Modulo_3_Java_Craft.html#materiales-de-referencia",
+    "href": "Modulo_3_Java_Craft.html#materiales-de-referencia",
     "title": "Advanced Challenges",
     "section": "",
-    "text": "Aprende a identificar la complejidad temporal de tus soluciones.\nUsa recursión para problemas como “Fibonacci” o “Factorial”."
+    "text": "Objetivo de Aprendizaje\nMateriales Escritos\n\n\n\n\n1. Profundizar en conceptos de Programación Orientada a Objetos (OOP).\nJava OOP(Object Oriented Programming) Concepts  Java Class and Object QuizObjects, Classes, Interfaces, Packages, and InheritanceClasses and Objects\n\n\n3. Resolver problemas complejos con algoritmos eficientes.\nRecursion in Java Full Tutorial - How to Create Recursive Methods\n\n\n4. Introducir Big O Notation y análisis de complejidad.\nBig-O Notation - For Coding Interviews"
   }
 ]
