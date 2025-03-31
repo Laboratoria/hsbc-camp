@@ -53,7 +53,7 @@
     "href": "Modulo_4_AdvancedPrep.html",
     "title": "Advanced Preparation Challenges",
     "section": "",
-    "text": "Consolidar habilidades en manipulación de fechas y tiempos.\nResolver más problemas con lógica condicional.\nPracticar el manejo de transacciones y cálculos financieros.\n\n\n\n\n\n\n\nPlataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nLeetCode\nDesign Parking System\n2\n\n\n\nHackerRank\nJava Currency Formatter\nFormato de datos, locales\n1\n\n\nCodewars\nBanker’s Plan\nLógica financiera, loops\n2,3\n\n\nLeetCode\nDesign Underground System\nDiseño de sistemas, colecciones\n1\n\n\n\n\n\n\n\nUsa LocalDate y DateTimeFormatter para manejar fechas en problemas como Banker’s Plan.\nPractica la división de problemas en subtareas (por ejemplo, calcular ingresos, aplicar tarifas, etc.).\nPrueba casos extremos: transacciones vacías, meses sin actividad, etc."
+    "text": "Consolidar habilidades en manipulación de fechas y tiempos.\nResolver más problemas con lógica condicional.\nPracticar el manejo de transacciones y cálculos financieros.\n\n\n\n\n\n\n\nPlataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nLeetCode\nDesign Parking System\nDiseño de sistemas\n2\n\n\nHackerRank\nJava Currency Formatter\nFormato de datos, locales\n1\n\n\nCodewars\nBanker’s Plan\nLógica financiera, loops\n2,3\n\n\nLeetCode\nDesign Underground System\nDiseño de sistemas, colecciones\n1\n\n\n\n\n\n\n\nUsa LocalDate y DateTimeFormatter para manejar fechas en problemas como Banker’s Plan.\nPractica la división de problemas en subtareas (por ejemplo, calcular ingresos, aplicar tarifas, etc.).\nPrueba casos extremos: transacciones vacías, meses sin actividad, etc."
   },
   {
     "objectID": "Modulo_4_AdvancedPrep.html#objetivos-de-aprendizaje-oas",
@@ -67,7 +67,7 @@
     "href": "Modulo_4_AdvancedPrep.html#desafíos",
     "title": "Advanced Preparation Challenges",
     "section": "",
-    "text": "Plataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nLeetCode\nDesign Parking System\n2\n\n\n\nHackerRank\nJava Currency Formatter\nFormato de datos, locales\n1\n\n\nCodewars\nBanker’s Plan\nLógica financiera, loops\n2,3\n\n\nLeetCode\nDesign Underground System\nDiseño de sistemas, colecciones\n1"
+    "text": "Plataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nLeetCode\nDesign Parking System\nDiseño de sistemas\n2\n\n\nHackerRank\nJava Currency Formatter\nFormato de datos, locales\n1\n\n\nCodewars\nBanker’s Plan\nLógica financiera, loops\n2,3\n\n\nLeetCode\nDesign Underground System\nDiseño de sistemas, colecciones\n1"
   },
   {
     "objectID": "Modulo_4_AdvancedPrep.html#consejos",
