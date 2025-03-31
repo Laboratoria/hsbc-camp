@@ -53,7 +53,7 @@
     "href": "Modulo_4_AdvancedPrep.html",
     "title": "Advanced Preparation Challenges",
     "section": "",
-    "text": "Consolidar habilidades en manipulación de fechas y tiempos.\nResolver más problemas con lógica condicional.\nPracticar el manejo de transacciones y cálculos financieros.\n\n\n\n\n\n\n\nPlataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nCodewars\nBanker’s Plan\nLógica financiera, loops\n2,3\n\n\nCodewars\nCalculating Bank Fees\nManejo de transacciones, condicionales\n2,3\n\n\nLeetCode\nDesign Underground System\nDiseño de sistemas, colecciones\n1,4\n\n\nHackerRank\nJava Currency Formatter\nFormato de datos, locales\n1\n\n\nEdabit\nATM Machine\nOOP, condicionales\n2,3\n\n\n\n\n\n\n\nUsa LocalDate y DateTimeFormatter para manejar fechas en problemas como Banker’s Plan.\nPractica la división de problemas en subtareas (por ejemplo, calcular ingresos, aplicar tarifas, etc.).\nPrueba casos extremos: transacciones vacías, meses sin actividad, etc.\n\n\n\n\nPara fechas y tiempos: Java Date and Time API."
+    "text": "Consolidar habilidades en manipulación de fechas y tiempos.\nResolver más problemas con lógica condicional.\nPracticar el manejo de transacciones y cálculos financieros.\n\n\n\n\n\n\n\nPlataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nCodewars\nBanker’s Plan\nLógica financiera, loops\n2,3\n\n\nLeetCode\nDesign Underground System\nDiseño de sistemas, colecciones\n1,4\n\n\nHackerRank\nJava Currency Formatter\nFormato de datos, locales\n1\n\n\n\n\n\n\n\nUsa LocalDate y DateTimeFormatter para manejar fechas en problemas como Banker’s Plan.\nPractica la división de problemas en subtareas (por ejemplo, calcular ingresos, aplicar tarifas, etc.).\nPrueba casos extremos: transacciones vacías, meses sin actividad, etc."
   },
   {
     "objectID": "Modulo_4_AdvancedPrep.html#objetivos-de-aprendizaje-oas",
@@ -67,7 +67,7 @@
     "href": "Modulo_4_AdvancedPrep.html#desafíos",
     "title": "Advanced Preparation Challenges",
     "section": "",
-    "text": "Plataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nCodewars\nBanker’s Plan\nLógica financiera, loops\n2,3\n\n\nCodewars\nCalculating Bank Fees\nManejo de transacciones, condicionales\n2,3\n\n\nLeetCode\nDesign Underground System\nDiseño de sistemas, colecciones\n1,4\n\n\nHackerRank\nJava Currency Formatter\nFormato de datos, locales\n1\n\n\nEdabit\nATM Machine\nOOP, condicionales\n2,3"
+    "text": "Plataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nCodewars\nBanker’s Plan\nLógica financiera, loops\n2,3\n\n\nLeetCode\nDesign Underground System\nDiseño de sistemas, colecciones\n1,4\n\n\nHackerRank\nJava Currency Formatter\nFormato de datos, locales\n1"
   },
   {
     "objectID": "Modulo_4_AdvancedPrep.html#consejos",
@@ -75,13 +75,6 @@
     "title": "Advanced Preparation Challenges",
     "section": "",
     "text": "Usa LocalDate y DateTimeFormatter para manejar fechas en problemas como Banker’s Plan.\nPractica la división de problemas en subtareas (por ejemplo, calcular ingresos, aplicar tarifas, etc.).\nPrueba casos extremos: transacciones vacías, meses sin actividad, etc."
-  },
-  {
-    "objectID": "Modulo_4_AdvancedPrep.html#referencias",
-    "href": "Modulo_4_AdvancedPrep.html#referencias",
-    "title": "Advanced Preparation Challenges",
-    "section": "",
-    "text": "Para fechas y tiempos: Java Date and Time API."
   },
   {
     "objectID": "CONTRIBUTING.html",
