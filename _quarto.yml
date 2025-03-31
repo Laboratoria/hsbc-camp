@@ -12,6 +12,10 @@ website:
         href: Modulo_1_Java_Basics.md
       - text: "Módulo 2"
         href: Modulo_2_Deeper_Java.md
+      - text: "Módulo 3"
+        href: Modulo_3_Java_Craft.md
+      - text: "Módulo 4"
+        href: Modulo_4_AdvancedPrep.md
 
 format:
   html:
