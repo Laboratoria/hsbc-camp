@@ -53,14 +53,14 @@
     "href": "Modulo_4_AdvancedPrep.html",
     "title": "Advanced Preparation Challenges",
     "section": "",
-    "text": "Consolidar habilidades en manipulación de fechas y tiempos.\nResolver problemas con lógica condicional compleja.\nPracticar el manejo de transacciones y cálculos financieros.\n\n\n\n\n\n\n\nPlataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nCodewars\nBanker’s Plan\nLógica financiera, loops\n2,3\n\n\nCodewars\nCalculating Bank Fees\nManejo de transacciones, condicionales\n2,3\n\n\nLeetCode\nDesign Underground System\nDiseño de sistemas, colecciones\n1,4\n\n\nHackerRank\nJava Currency Formatter\nFormato de datos, locales\n1\n\n\nEdabit\nATM Machine\nOOP, condicionales\n2,3\n\n\n\n\n\n\n\nUsa LocalDate y DateTimeFormatter para manejar fechas en problemas como Banker’s Plan.\nPractica la división de problemas en subtareas (por ejemplo, calcular ingresos, aplicar tarifas, etc.).\nPrueba casos extremos: transacciones vacías, meses sin actividad, etc."
+    "text": "Consolidar habilidades en manipulación de fechas y tiempos.\nResolver más problemas con lógica condicional.\nPracticar el manejo de transacciones y cálculos financieros.\n\n\n\n\n\n\n\nPlataforma\nEnlace\nHabilidades evaluadas\nOA\n\n\n\n\nCodewars\nBanker’s Plan\nLógica financiera, loops\n2,3\n\n\nCodewars\nCalculating Bank Fees\nManejo de transacciones, condicionales\n2,3\n\n\nLeetCode\nDesign Underground System\nDiseño de sistemas, colecciones\n1,4\n\n\nHackerRank\nJava Currency Formatter\nFormato de datos, locales\n1\n\n\nEdabit\nATM Machine\nOOP, condicionales\n2,3\n\n\n\n\n\n\n\nUsa LocalDate y DateTimeFormatter para manejar fechas en problemas como Banker’s Plan.\nPractica la división de problemas en subtareas (por ejemplo, calcular ingresos, aplicar tarifas, etc.).\nPrueba casos extremos: transacciones vacías, meses sin actividad, etc.\n\n\n\n\nPara fechas y tiempos: Java Date and Time API."
   },
   {
     "objectID": "Modulo_4_AdvancedPrep.html#objetivos-de-aprendizaje-oas",
     "href": "Modulo_4_AdvancedPrep.html#objetivos-de-aprendizaje-oas",
     "title": "Advanced Preparation Challenges",
     "section": "",
-    "text": "Consolidar habilidades en manipulación de fechas y tiempos.\nResolver problemas con lógica condicional compleja.\nPracticar el manejo de transacciones y cálculos financieros."
+    "text": "Consolidar habilidades en manipulación de fechas y tiempos.\nResolver más problemas con lógica condicional.\nPracticar el manejo de transacciones y cálculos financieros."
   },
   {
     "objectID": "Modulo_4_AdvancedPrep.html#desafíos",
@@ -75,6 +75,13 @@
     "title": "Advanced Preparation Challenges",
     "section": "",
     "text": "Usa LocalDate y DateTimeFormatter para manejar fechas en problemas como Banker’s Plan.\nPractica la división de problemas en subtareas (por ejemplo, calcular ingresos, aplicar tarifas, etc.).\nPrueba casos extremos: transacciones vacías, meses sin actividad, etc."
+  },
+  {
+    "objectID": "Modulo_4_AdvancedPrep.html#referencias",
+    "href": "Modulo_4_AdvancedPrep.html#referencias",
+    "title": "Advanced Preparation Challenges",
+    "section": "",
+    "text": "Para fechas y tiempos: Java Date and Time API."
   },
   {
     "objectID": "CONTRIBUTING.html",
@@ -186,14 +193,14 @@
     "href": "index.html",
     "title": "HSBC Java Coding Challenges Path",
     "section": "",
-    "text": "Este repositorio contiene el plan de estudios para un curso de Java de 2 meses, dividido en 4 bloques de semanas. Cada bloque se enfoca en habilidades específicas, desde lo básico hasta problemas avanzados, culminando en un proyecto final.\n\n\n\nMódulo 1 (syntax, data types, loops, conditionals).\nMódulo 2 (OOP, collections, algorithms).\nMódulo 3 (data structures, problem-solving).\nMódulo 4 Capstone project and review.\n\n\n\n\n\nCada sección contiene una lista de desafíos con enlaces a las plataformas.\nLos objetivos de aprendizaje (OAs) están asociados a cada desafío."
+    "text": "Este repositorio contiene el plan de estudios para un curso de Java de 2 meses, dividido en 4 bloques de semanas. Cada bloque se enfoca en habilidades específicas, desde lo básico hasta problemas avanzados, culminando en un proyecto final.\n\n\n\nMódulo 1 (syntax, data types, loops, conditionals).\nMódulo 2 (OOP, collections, algorithms).\nMódulo 3 (data structures, problem-solving).\nMódulo 4 (advanced preparation).\n\n\n\n\n\nCada sección contiene una lista de desafíos con enlaces a las plataformas.\nLos objetivos de aprendizaje (OAs) están asociados a cada desafío."
   },
   {
     "objectID": "index.html#estructura-del-curso",
     "href": "index.html#estructura-del-curso",
     "title": "HSBC Java Coding Challenges Path",
     "section": "",
-    "text": "Módulo 1 (syntax, data types, loops, conditionals).\nMódulo 2 (OOP, collections, algorithms).\nMódulo 3 (data structures, problem-solving).\nMódulo 4 Capstone project and review."
+    "text": "Módulo 1 (syntax, data types, loops, conditionals).\nMódulo 2 (OOP, collections, algorithms).\nMódulo 3 (data structures, problem-solving).\nMódulo 4 (advanced preparation)."
   },
   {
     "objectID": "index.html#cómo-usar-este-repositorio",
